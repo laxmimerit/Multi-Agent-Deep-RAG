@@ -2,3 +2,4 @@ google-genai
 python-dotenv
 langchain
 langsmith
+langchain-google-genai
