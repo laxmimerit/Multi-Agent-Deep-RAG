@@ -1,20 +1,15 @@
 import os
 import json
 
-from dotenv import load_dotenv
-load_dotenv()
-
-from langchain_core.tools import tool
+from langchain.tools import tool
 import ollama
 import requests
-
 
 # -------------------------
 # Web Search Tool
 # -------------------------
-
 @tool
-def web_search(query: str) -> str:
+def web_search(query: str):
     """
     Perform a live web search using Ollama Cloud Web Search API.
 
@@ -24,7 +19,8 @@ def web_search(query: str) -> str:
     Output:
         JSON string of top results (max_results=2).
     """
-    response = ollama.web_search(query, max_results=2)
+
+    response = ollama.web_search(query=query, max_results=2)
     response = response.results
 
     return response
@@ -34,7 +30,7 @@ def web_search(query: str) -> str:
 # Weather Tool
 # -------------------------
 @tool
-def get_weather(location: str) -> str:
+def get_weather(location: str):
     """Get current weather for a location using WeatherAPI.com.
     
     Use for queries about weather, temperature, or conditions in any city.
@@ -47,13 +43,11 @@ def get_weather(location: str) -> str:
         Current weather information including temperature and conditions.
     """
 
-    url = (
-        "http://api.weatherapi.com/v1/current.json"
-        f"?key={os.getenv("WEATHER_API_KEY")}&q={location}&aqi=no"
-    )
+    url = f"http://api.weatherapi.com/v1/current.json?key={os.getenv('WEATHER_API_KEY')}&q={location}&aqi=no"
 
-    response = requests.get(url, timeout=10)
+    response = requests.get(url=url, timeout=10)
     response.raise_for_status()
 
     data = response.json()
+
     return data
