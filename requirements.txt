@@ -3,3 +3,4 @@ python-dotenv
 langchain
 langsmith
 langchain-google-genai
+langchain-google-vertexai
