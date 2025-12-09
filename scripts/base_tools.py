@@ -11,7 +11,7 @@ import requests
 @tool
 def web_search(query: str):
     """
-    Perform a live web search using Ollama Cloud Web Search API.
+    Perform a live web search using Ollama Cloud Web Search API for real-time information and news.
 
     Input:
         query: search query string
