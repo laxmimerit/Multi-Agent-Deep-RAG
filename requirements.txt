@@ -4,3 +4,4 @@ langchain
 langsmith
 langchain-google-genai
 langchain-google-vertexai
+langchain_qdrant
