@@ -5,12 +5,16 @@
 # https://github.com/laxmimerit/Agentic-RAG-with-LangGraph-and-Ollama
 
 # https://github.com/langchain-ai/langchain-mcp-adapters
+# https://github.com/laxmimerit/yahoo-finance-mcp-server
 
 import warnings 
 warnings.filterwarnings("ignore")
 
 import os
 import sys
+# Set UTF-8 encoding for Windows console
+if sys.platform == 'win32':
+    sys.stdout.reconfigure(encoding='utf-8')
 
 from dotenv import load_dotenv
 load_dotenv()
@@ -21,10 +25,6 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 
 import asyncio
 from langchain_mcp_adapters.client import MultiServerMCPClient
-
-# Set UTF-8 encoding for Windows console
-if sys.platform == 'win32':
-    sys.stdout.reconfigure(encoding='utf-8')
 
 llm = ChatGoogleGenerativeAI(model="gemini-2.5-flash", temperature=0)
 
