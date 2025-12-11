@@ -1,4 +1,5 @@
 """Yahoo Finance MCP module with LangChain integration."""
+
 ######## MCP SETUP ###############
 # MCP GITHUB
 # https://github.com/laxmimerit/MCP-Mastery-with-Claude-and-Langchain
@@ -7,16 +8,19 @@
 # https://github.com/langchain-ai/langchain-mcp-adapters
 # https://github.com/laxmimerit/yahoo-finance-mcp-server
 
-import warnings 
+import warnings
+
 warnings.filterwarnings("ignore")
 
 import os
 import sys
+
 # Set UTF-8 encoding for Windows console
-if sys.platform == 'win32':
-    sys.stdout.reconfigure(encoding='utf-8')
+if sys.platform == "win32":
+    sys.stdout.reconfigure(encoding="utf-8")
 
 from dotenv import load_dotenv
+
 load_dotenv()
 
 from langchain_core.messages import HumanMessage
@@ -26,7 +30,8 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 import asyncio
 from langchain_mcp_adapters.client import MultiServerMCPClient
 
-llm = ChatGoogleGenerativeAI(model="gemini-2.5-flash", temperature=0)
+llm = ChatGoogleGenerativeAI(model="gemini-2.5-flash")
+
 
 system_prompt = """
                 You are a financial research assistant helping users analyze stocks and financial data using Yahoo Finance.
@@ -53,33 +58,41 @@ system_prompt = """
                 - Be proactive - gather data first, then provide comprehensive analysis
                 """
 
+
 async def get_tools():
     client = MultiServerMCPClient(
         {
-            "yfinance": {
+            "yahoo-finance": {
                 "command": "uvx",
                 "args": ["yahoo-finance-mcp-server"],
-                "transport": "stdio"
+                "transport": "stdio",
             }
         }
     )
 
     tools = await client.get_tools()
-    print(f"Loaded {len(tools)} Tools")
-    print(f"Tools Available: {[tool.name for tool in tools]}")
+
+    print(f"Loaded {len(tools)} tools")
+    print(f"Tools available: {[tool.name for tool in tools]}")
 
     return tools
 
+
 async def finance_research(query):
     tools = await get_tools()
-    agent = create_agent(model=llm, tools=tools, system_prompt=system_prompt)
-    result = await agent.ainvoke({'messages': [HumanMessage(query)]})
 
-    response = result['messages'][-1].content[0]['text']
+    agent = create_agent(model=llm, tools=tools, system_prompt=system_prompt)
+
+    result = await agent.ainvoke({"messages": [HumanMessage(query)]})
+
+    response = result["messages"][-1].text
+
     print(response)
 
     return response
 
-if __name__=="__main__":
+
+if __name__ == "__main__":
     query = "What is the current stock price and recent performance of Apple (AAPL)? Also show me the latest news."
+
     asyncio.run(finance_research(query))
