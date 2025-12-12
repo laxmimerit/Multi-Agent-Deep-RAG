@@ -1,0 +1,16 @@
+## Supplemental Cash Flow Information
+The following table shows supplemental cash flow information (in millions):
+
+|                                                                                                                                                           | Year Ended December 31,   | Year Ended December 31,   | Year Ended December 31,   |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|---------------------------|---------------------------|
+|                                                                                                                                                           | 2022                      | 2023                      | 2024                      |
+| SUPPLEMENTALCASH FLOWINFORMATION:                                                                                                                         |                           |                           |                           |
+| Cash paid for interest on debt, net of capitalized interest                                                                                               | $ 1,561                   | $ 2,608                   | $ 1,858                   |
+| Cash paid for operating leases                                                                                                                            | $ 8,633                   | $ 10,453                  | $ 12,341                  |
+| Cash paid for interest on finance leases                                                                                                                  | $ 374                     | $ 308                     | $ 287                     |
+| Cash paid for interest on financing obligations                                                                                                           | $ 207                     | $ 196                     | $ 219                     |
+| Cash paid for income taxes, net of refunds                                                                                                                | $ 6,035                   | $ 11,179                  | $ 12,308                  |
+| Assets acquired under operating leases                                                                                                                    | $ 18,800                  | $ 14,052                  | $ 15,424                  |
+| Property and equipment acquired under finance leases, net of remeasurements and modifications                                                             | $ 675                     | $ 642                     | $ 854                     |
+| Property and equipment recognized during the construction period of build-to-suit lease arrangements                                                      | $ 3,187                   | $ 357                     | $ 97                      |
+| Property and equipment derecognized after the construction period of build-to-suit lease arrangements, with the associated leases recognized as operating | $ 5,158                   | $ 1,374                   | $ -                       |
