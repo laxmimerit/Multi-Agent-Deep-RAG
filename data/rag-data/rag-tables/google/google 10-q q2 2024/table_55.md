@@ -1,0 +1,20 @@
+<!-- page break -->
+## ITEM 6. EXHIBITS
+
+|         | Exhibit   | Incorporated by reference herein                                                                                                                                                | Incorporated by reference herein   |
+|---------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|
+| Number  | Number    | Description                                                                                                                                                                     | Date                               |
+| 10.01   |           | Letter Agreement, dated June 3, 2024, between Anat Ashkenazi and Alphabet Inc.                                                                                                  | June 7, 2024                       |
+| 31.01   |           | Certification of Chief Executive Officer pursuant to Exchange Act Rules 13a- 14(a) and 15d-14(a), as adopted pursuant to Section 302 of the Sarbanes- Oxley Act of 2002         |                                    |
+| 31.02   |           | Certification of Chief Financial Officer pursuant to Exchange Act Rules 13a- 14(a) and 15d-14(a), as adopted pursuant to Section 302 of the Sarbanes- Oxley Act of 2002         |                                    |
+| 32.01   |           | Certifications of Chief Executive Officer and Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes- Oxley Act of 2002 |                                    |
+| 101.INS |           | Inline XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document.          |                                    |
+| 101.SCH |           | Inline XBRL Taxonomy Extension Schema Document                                                                                                                                  |                                    |
+| 101.CAL |           | Inline XBRL Taxonomy Extension Calculation Linkbase Document                                                                                                                    |                                    |
+| 101.DEF |           | Inline XBRL Taxonomy Extension Definition Linkbase Document                                                                                                                     |                                    |
+| 101.LAB |           | Inline XBRL Taxonomy Extension Label Linkbase Document                                                                                                                          |                                    |
+| 101.PRE |           | Inline XBRL Taxonomy Extension Presentation Linkbase Document                                                                                                                   |                                    |
+| 104     |           | Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)                                                                                        |                                    |
+| ♦       |           | Indicates management compensatory plan, contract, or arrangement.                                                                                                               |                                    |
+| *       |           | Filed herewith.                                                                                                                                                                 |                                    |
+| ‡       |           | Furnished herewith.                                                                                                                                                             |                                    |

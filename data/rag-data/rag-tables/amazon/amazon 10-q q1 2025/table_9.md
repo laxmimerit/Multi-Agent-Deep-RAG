@@ -1,0 +1,19 @@
+<!-- page break -->
+The following table summarizes, by major security type, our cash, cash equivalents, restricted cash, and marketable securities that are measured at fair value on a recurring basis and are categorized using the fair value hierarchy (in millions):
+
+|                                                                        | December 31, 2024          | March 31, 2025         | March 31, 2025         | March 31, 2025          | March 31, 2025             |
+|------------------------------------------------------------------------|----------------------------|------------------------|------------------------|-------------------------|----------------------------|
+|                                                                        | Total Estimated Fair Value | Cost or Amortized Cost | Gross Unrealized Gains | Gross Unrealized Losses | Total Estimated Fair Value |
+| Cash                                                                   | $ 17,055                   | $ 15,794               | $ -                    | $ -                     | $ 15,794                   |
+| Level 1 securities:                                                    |                            |                        |                        |                         |                            |
+| Money market funds                                                     | 28,282                     | 18,357                 | -                      | -                       | 18,357                     |
+| Equity securities (1)                                                  | 3,318                      |                        |                        |                         | 3,001                      |
+| Level 2 securities:                                                    |                            |                        |                        |                         |                            |
+| Foreign government and agency securities                               | 177                        | 180                    | -                      | -                       | 180                        |
+| U.S. government and agency securities                                  | 3,401                      | 4,709                  | 5                      | (40)                    | 4,674                      |
+| Corporate debt securities                                              | 50,912                     | 54,744                 | 9                      | (28)                    | 54,725                     |
+| Asset-backed securities                                                | 1,523                      | 1,471                  | 2                      | (15)                    | 1,458                      |
+| Other debt securities                                                  | 67                         | 62                     | -                      | -                       | 62                         |
+|                                                                        | $ 104,735                  | $ 95,317               | $ 16                   | $ (83)                  | $ 98,251                   |
+| Less: Restricted cash, cash equivalents, and marketable securities (2) | (3,533)                    |                        |                        |                         | (3,686)                    |
+| Total cash, cash equivalents, and marketable securities                | $ 101,202                  |                        |                        |                         | $ 94,565                   |

@@ -1,0 +1,26 @@
+## Net Sales
+Net sales include product and service sales. Product sales represent revenue from the sale of products and related shipping fees and digital media content where we record revenue gross. Service sales primarily represent third-party seller fees, which includes commissions and any related fulfillment and shipping fees, AWS sales, advertising services, Amazon Prime membership fees, and certain digital media content subscriptions. Net sales information is as follows (in millions):
+
+|                                                                                   | Three Months Ended June 30,   | Three Months Ended June 30,   | Six Months Ended June 30,   | Six Months Ended June 30,   |
+|-----------------------------------------------------------------------------------|-------------------------------|-------------------------------|-----------------------------|-----------------------------|
+|                                                                                   | 2024                          | 2025                          | 2024                        | 2025                        |
+| Net Sales:                                                                        |                               |                               |                             |                             |
+| North America                                                                     | $ 90,033                      | $ 100,068                     | $ 176,374                   | $ 192,955                   |
+| International                                                                     | 31,663                        | 36,761                        | 63,598                      | 70,274                      |
+| AWS                                                                               | 26,281                        | 30,873                        | 51,318                      | 60,140                      |
+| Consolidated                                                                      | $ 147,977                     | $ 167,702                     | $ 291,290                   | $ 323,369                   |
+| Year-over-year Percentage Growth:                                                 |                               |                               |                             |                             |
+| North America                                                                     | 9%                            | 11%                           | 11%                         | 9%                          |
+| International                                                                     | 7                             | 16                            | 8                           | 10                          |
+| AWS                                                                               | 19                            | 17                            | 18                          | 17                          |
+| Consolidated                                                                      | 10                            | 13                            | 11                          | 11                          |
+| Year-over-year Percentage Growth, excluding the effect of foreign exchange rates: |                               |                               |                             |                             |
+| North America                                                                     | 9%                            | 11%                           | 11%                         | 10%                         |
+| International                                                                     | 10                            | 11                            | 10                          | 9                           |
+| AWS                                                                               | 19                            | 17                            | 18                          | 17                          |
+| Consolidated                                                                      | 11                            | 12                            | 12                          | 11                          |
+| Net Sales Mix:                                                                    |                               |                               |                             |                             |
+| North America                                                                     | 61%                           | 60%                           | 60%                         | 60%                         |
+| International                                                                     | 21                            | 22                            | 22                          | 22                          |
+| AWS                                                                               | 18                            | 18                            | 18                          | 18                          |
+| Consolidated                                                                      | 100%                          | 100%                          | 100%                        | 100%                        |
