@@ -1,0 +1,21 @@
+**Page:** 32
+
+Our exposure to market risk for changes in interest rates relates primarily to our investment portfolio and our debt. Our long-term debt is carried at amortized cost and fluctuations in interest rates do not impact our consolidated financial statements. However, the fair value of our long-term debt, which pays interest at a fixed rate, will generally fluctuate with movements of interest rates, increasing in periods of declining rates of interest and declining in periods of increasing rates of interest.
+We generally invest our excess cash in AAA-rated money market funds and investment grade short- to intermediate-term marketable debt securities. Marketable debt securities with fixed interest rates may have their fair market value adversely affected due to a rise in interest rates, and we may suffer losses in principal if forced to sell securities that have declined in market value due to changes in interest rates. The following table provides information about our cash equivalents and marketable debt securities, including principal cash flows by expected maturity and the related weighted-average interest rates as of December 31, 2023 (in millions, except percentages):
+
+|                                                 | 2024     | 2025    | 2026    | 2027   | 2028   | Thereafter   | Total    | Estimated Fair Value as of December 31, 2023   |
+|-------------------------------------------------|----------|---------|---------|--------|--------|--------------|----------|------------------------------------------------|
+| Money market funds                              | $ 39,160 | $ -     | $ -     | $ -    | $ -    | $ -          | $ 39,160 | $ 39,160                                       |
+| Weighted average interest rate                  | 5.32%    | -%      | -%      | -%     | -%     | -%           | 5.32%    |                                                |
+| Corporate debt securities                       | 25,075   | 2,227   | 715     | 9      | -      | -            | 28,026   | 27,805                                         |
+| Weighted average interest rate                  | 5.13%    | 1.30%   | 1.51%   | 2.33%  | -%     | -%           | 4.74%    |                                                |
+| U.S. government and agency securities           | 552      | 501     | 398     | 50     | 43     | 230          | 1,774    | 1,699                                          |
+| Weighted average interest rate                  | 3.24%    | 1.49%   | 1.12%   | 0.97%  | 0.67%  | 1.31%        | 1.89%    |                                                |
+| Asset-backed securities                         | 789      | 349     | 115     | 143    | 13     | 291          | 1,700    | 1,646                                          |
+| Weighted average interest rate                  | 1.34%    | 2.09%   | 1.20%   | 1.67%  | 1.66%  | 1.33%        | 1.51%    |                                                |
+| Foreign government and agency securities        | 506      | -       | -       | -      | -      | -            | 506      | 505                                            |
+| Weighted average interest rate                  | 5.28%    | -%      | -%      | -%     | -%     | -%           | 5.28%    |                                                |
+| Other debt securities                           | 62       | 46      | -       | -      | -      | -            | 108      | 104                                            |
+| Weighted average interest rate                  | 0.55%    | 1.07%   | -%      | -%     | -%     | -%           | 0.78%    |                                                |
+|                                                 | $ 66,144 | $ 3,123 | $ 1,228 | $ 202  | $ 56   | $ 521        | $ 71,274 |                                                |
+| Cash equivalents and marketable debt securities |          |         |         |        |        |              |          | $ 70,919                                       |

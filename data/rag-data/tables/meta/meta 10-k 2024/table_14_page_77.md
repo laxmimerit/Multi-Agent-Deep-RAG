@@ -1,0 +1,11 @@
+**Page:** 77
+
+Our principal sources of liquidity are our cash, cash equivalents, marketable securities, and cash generated from operations. Cash, cash equivalents, and marketable securities are comprised of cash on deposit with banks, time deposits, money market funds, U.S. government and agency securities, investment grade corporate debt securities, and marketable equity securities. As part of our cash management strategy, we concentrate cash deposits with large financial institutions and our investment holdings are in diversified highly rated securities. Cash, cash equivalents, and marketable securities were $77.81 billion as of December 31, 2024, an increase of $12.41 billion from December 31, 2023. The increase was due to $91.33 billion of cash generated from operations and $10.43 billion of net proceeds from the issuance of fixed-rate senior unsecured notes (the Notes) in August 2024. These increases were offset by $39.23 billion of capital expenditures, including principal payments on finance leases, our capital returns of $35.20 billion for repurchases of our Class A common stock and payments of dividends and dividend equivalents,  and  $13.77  billion  of  taxes  paid  related  to  net  share  settlement  of  employee  restricted  stock  unit  (RSU) awards.
+The following table presents our cash flows (in millions):
+
+|                                           | Year Ended December 31,   | Year Ended December 31,   | Year Ended December 31,   |
+|-------------------------------------------|---------------------------|---------------------------|---------------------------|
+|                                           | 2024                      | 2023                      | 2022                      |
+| Net cash provided by operating activities | $ 91,328                  | $ 71,113                  | $ 50,475                  |
+| Net cash used in investing activities     | $ (47,150)                | $ (24,495)                | $ (28,970)                |
+| Net cash used in financing activities     | $ (40,781)                | $ (19,500)                | $ (22,136)                |

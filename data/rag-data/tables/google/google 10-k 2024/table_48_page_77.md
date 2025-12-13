@@ -1,0 +1,23 @@
+**Page:** 77
+
+## Accumulated Other Comprehensive Income (Loss)
+Components of AOCI, net of income tax, were as follows (in millions):
+
+|                                                                              | Foreign Currency Translation Adjustments   | Unrealized Gains (Losses) on Available- for-Sale Investments   | Unrealized Gains (Losses) on Cash Flow Hedges   | Total     |
+|------------------------------------------------------------------------------|--------------------------------------------|----------------------------------------------------------------|-------------------------------------------------|-----------|
+| Balance as of December 31, 2021                                              | $ (2,306)                                  | $ 236                                                          | $ 447                                           | $ (1,623) |
+| Other comprehensive income (loss) before reclassifications                   | (1,836)                                    | (4,720)                                                        | 1,463                                           | (5,093)   |
+| Amounts excluded from the assessment of hedge effectiveness recorded in AOCI | 0                                          | 0                                                              | (188)                                           | (188)     |
+| Amounts reclassified from AOCI                                               | 0                                          | 1,007                                                          | (1,706)                                         | (699)     |
+| Other comprehensive income (loss)                                            | (1,836)                                    | (3,713)                                                        | (431)                                           | (5,980)   |
+| Balance as of December 31, 2022                                              | (4,142)                                    | (3,477)                                                        | 16                                              | (7,603)   |
+| Other comprehensive income (loss) before reclassifications                   | 735                                        | 1,344                                                          | 84                                              | 2,163     |
+| Amounts excluded from the assessment of hedge effectiveness recorded in AOCI | 0                                          | 0                                                              | 84                                              | 84        |
+| Amounts reclassified from AOCI                                               | 0                                          | 1,168                                                          | (214)                                           | 954       |
+| Other comprehensive income (loss)                                            | 735                                        | 2,512                                                          | (46)                                            | 3,201     |
+| Balance as of December 31, 2023                                              | (3,407)                                    | (965)                                                          | (30)                                            | (4,402)   |
+| Other comprehensive income (loss) before reclassifications                   | (1,673)                                    | (116)                                                          | 698                                             | (1,091)   |
+| Amounts excluded from the assessment of hedge effectiveness recorded in AOCI | 0                                          | 0                                                              | 77                                              | 77        |
+| Amounts reclassified from AOCI                                               | 0                                          | 782                                                            | (166)                                           | 616       |
+| Other comprehensive income (loss)                                            | (1,673)                                    | 666                                                            | 609                                             | (398)     |
+| Balance as of December 31, 2024                                              | $ (5,080)                                  | $ (299)                                                        | $ 579                                           | $ (4,800) |

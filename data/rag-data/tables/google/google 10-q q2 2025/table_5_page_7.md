@@ -1,0 +1,21 @@
+**Page:** 7
+
+## Alphabet Inc. CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+(in millions; unaudited)
+
+|                                                                                                                        | Three Months Ended June 30,   | Three Months Ended June 30,   | Six Months Ended June 30,   | Six Months Ended June 30,   |
+|------------------------------------------------------------------------------------------------------------------------|-------------------------------|-------------------------------|-----------------------------|-----------------------------|
+|                                                                                                                        | 2024                          | 2025                          | 2024                        | 2025                        |
+| Net income                                                                                                             | $ 23,619                      | $ 28,196                      | $ 47,281                    | $ 62,736                    |
+| Other comprehensive income (loss):                                                                                     |                               |                               |                             |                             |
+| Change in foreign currency translation adjustment, net of income tax benefit (expense) of $(26), $190, $(44), and $235 | (447)                         | 2,610                         | (950)                       | 3,273                       |
+| Available-for-sale investments:                                                                                        |                               |                               |                             |                             |
+| Change in net unrealized gains (losses)                                                                                | (93)                          | 191                           | (453)                       | 836                         |
+| Less: reclassification adjustment for net (gains) losses included in net income                                        | 230                           | (29)                          | 541                         | (113)                       |
+| Net change, net of income tax benefit (expense) of $(40), $(46), $(26), and $(205)                                     | 137                           | 162                           | 88                          | 723                         |
+| Cash flow hedges:                                                                                                      |                               |                               |                             |                             |
+| Change in net unrealized gains (losses)                                                                                | 232                           | (920)                         | 418                         | (1,233)                     |
+| Less: reclassification adjustment for net (gains) losses included in net income                                        | (95)                          | 107                           | (166)                       | (90)                        |
+| Net change, net of income tax benefit (expense) of $(27), $208, $(50), and $339                                        | 137                           | (813)                         | 252                         | (1,323)                     |
+| Other comprehensive income (loss)                                                                                      | (173)                         | 1,959                         | (610)                       | 2,673                       |
+| Comprehensive income                                                                                                   | $ 23,446                      | $ 30,155                      | $ 46,671                    | $ 65,409                    |

@@ -1,0 +1,21 @@
+**Page:** 7
+
+## Alphabet Inc. CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+(in millions; unaudited)
+
+|                                                                                                                     | Three Months Ended September 30,   | Three Months Ended September 30,   | Nine Months Ended September 30,   | Nine Months Ended September 30,   |
+|---------------------------------------------------------------------------------------------------------------------|------------------------------------|------------------------------------|-----------------------------------|-----------------------------------|
+|                                                                                                                     | 2023                               | 2024                               | 2023                              | 2024                              |
+| Net income                                                                                                          | $ 19,689                           | $ 26,301                           | $ 53,108                          | $ 73,582                          |
+| Other comprehensive income (loss):                                                                                  |                                    |                                    |                                   |                                   |
+| Change in foreign currency translation adjustment, net of income tax benefit (expense) of $(74), $93, $(14) and $49 | (1,169)                            | 1,184                              | (338)                             | 234                               |
+| Available-for-sale investments:                                                                                     |                                    |                                    |                                   |                                   |
+| Change in net unrealized gains (losses)                                                                             | (678)                              | 1,208                              | (382)                             | 755                               |
+| Less: reclassification adjustment for net (gains) losses included in net income                                     | 255                                | 88                                 | 745                               | 629                               |
+| Net change, net of income tax benefit (expense) of $120, $(368), $(104) and $(394)                                  | (423)                              | 1,296                              | 363                               | 1,384                             |
+| Cash flow hedges:                                                                                                   |                                    |                                    |                                   |                                   |
+| Change in net unrealized gains (losses)                                                                             | 550                                | (698)                              | 627                               | (280)                             |
+| Less: reclassification adjustment for net (gains) losses included in net income                                     | (3)                                | 2                                  | (85)                              | (164)                             |
+| Net change, net of income tax benefit (expense) of $(134), $138, $(115) and $88                                     | 547                                | (696)                              | 542                               | (444)                             |
+| Other comprehensive income (loss)                                                                                   | (1,045)                            | 1,784                              | 567                               | 1,174                             |
+| Comprehensive income                                                                                                | $ 18,644                           | $ 28,085                           | $ 53,675                          | $ 74,756                          |

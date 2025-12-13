@@ -1,0 +1,25 @@
+**Page:** 19
+
+The table below presents the gains (losses) of our derivatives on the Consolidated Statements of Income: (in millions):
+
+|                                                                  | Gains (Losses) Recognized in Income   | Gains (Losses) Recognized in Income   | Gains (Losses) Recognized in Income   | Gains (Losses) Recognized in Income   |
+|------------------------------------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|
+|                                                                  | 2023                                  | 2023                                  | 2024                                  | 2024                                  |
+|                                                                  | Revenues                              | Other income (expense), net           | Revenues                              | Other income (expense), net           |
+| Total amounts in the Consolidated Statements of Income           | $ 74,604                              | $ 65                                  | $ 84,742                              | $ 126                                 |
+| Effect of cash flow hedges:                                      |                                       |                                       |                                       |                                       |
+| Foreign exchange contracts                                       |                                       |                                       |                                       |                                       |
+| Amount reclassified from AOCI to income                          | $ (2)                                 | $ 0                                   | $ 106                                 | $ 0                                   |
+| Amount excluded from the assessment of effectiveness (amortized) | 6                                     | 0                                     | (4)                                   | 0                                     |
+| Effect of fair value hedges:                                     |                                       |                                       |                                       |                                       |
+| Foreign exchange contracts                                       |                                       |                                       |                                       |                                       |
+| Hedged items                                                     | 0                                     | 22                                    | 0                                     | (9)                                   |
+| Derivatives designated as hedging instruments                    | 0                                     | (22)                                  | 0                                     | 9                                     |
+| Amount excluded from the assessment of effectiveness             | 0                                     | 5                                     | 0                                     | 3                                     |
+| Effect of net investment hedges:                                 |                                       |                                       |                                       |                                       |
+| Foreign exchange contracts                                       |                                       |                                       |                                       |                                       |
+| Amount excluded from the assessment of effectiveness             | 0                                     | 72                                    | 0                                     | 31                                    |
+| Effect of non designated hedges:                                 |                                       |                                       |                                       |                                       |
+| Foreign exchange contracts                                       | 0                                     | 124                                   | 0                                     | (22)                                  |
+| Other contracts                                                  | 0                                     | (4)                                   | 0                                     | 26                                    |
+| Total gains (losses)                                             | $ 4                                   | $ 197                                 | $ 102                                 | $ 38                                  |

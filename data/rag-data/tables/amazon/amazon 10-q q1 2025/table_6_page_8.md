@@ -1,0 +1,17 @@
+**Page:** 8
+
+## Supplemental Cash Flow Information
+The following table shows supplemental cash flow information (in millions):
+
+|                                                                                               | Three Months Ended March 31,   | Three Months Ended March 31,   | Twelve Months Ended March 31,   | Twelve Months Ended March 31,   |
+|-----------------------------------------------------------------------------------------------|--------------------------------|--------------------------------|---------------------------------|---------------------------------|
+|                                                                                               | 2024                           | 2025                           | 2024                            | 2025                            |
+| SUPPLEMENTALCASH FLOWINFORMATION:                                                             |                                |                                |                                 |                                 |
+| Cash paid for interest on debt, net of capitalized interest                                   | $ 269                          | $ 236                          | $ 2,475                         | $ 1,825                         |
+| Cash paid for operating leases                                                                | 3,332                          | 3,562                          | 11,318                          | 12,571                          |
+| Cash paid for interest on finance leases                                                      | 74                             | 71                             | 301                             | 284                             |
+| Cash paid for interest on financing obligations                                               | 64                             | 55                             | 201                             | 210                             |
+| Cash paid for income taxes, net of refunds                                                    | 458                            | 877                            | 11,018                          | 12,727                          |
+| Assets acquired under operating leases                                                        | 3,753                          | 4,321                          | 14,179                          | 15,992                          |
+| Property and equipment acquired under finance leases, net of remeasurements and modifications | 42                             | 54                             | 676                             | 866                             |
+| Increase (decrease) in property and equipment acquired but not yet paid                       | 411                            | 3,108                          | 801                             | 9,736                           |

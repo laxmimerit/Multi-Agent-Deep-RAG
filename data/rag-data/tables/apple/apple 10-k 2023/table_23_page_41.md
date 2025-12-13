@@ -1,0 +1,10 @@
+**Page:** 41
+
+The derivative assets above represent the Company's gross credit exposure if all counterparties failed to perform. To mitigate credit risk, the Company generally uses  collateral  security  arrangements  that  provide  for  collateral  to  be  received  or  posted  when  the  net  fair  values  of  certain  derivatives  fluctuate  from contractually established thresholds. To further limit credit risk, the Company generally uses master netting arrangements with the respective counterparties to the Company's derivative contracts, under which the Company is allowed to settle transactions with a single net amount payable by one party to the other. As of September 24, 2022, the potential effects of these rights of set-off associated with the Company's derivative contracts, including the effects of collateral, would be a reduction to both derivative assets and derivative liabilities of $7.8 billion, resulting in a net derivative asset of $412 million.
+The carrying amounts of the Company's hedged items in fair value hedges as of September 30, 2023 and September 24, 2022 were as follows (in millions):
+
+|                                               | 2023       | 2022       |
+|-----------------------------------------------|------------|------------|
+| Hedged assets/(liabilities):                  |            |            |
+| Current and non-current marketable securities | $ 14,433   | $ 13,378   |
+| Current and non-current term debt             | $ (18,247) | $ (18,739) |

@@ -1,0 +1,17 @@
+**Page:** 29
+
+## Free Cash Flow Less Equipment Finance Leases and Principal Repayments of All Other Finance Leases and Financing Obligations
+Free cash flow less equipment finance leases and principal repayments of all other finance leases and financing obligations is free cash flow reduced by equipment acquired under finance leases, which is included in 'Property and equipment acquired under finance leases, net of remeasurements and modifications,' principal repayments of all other finance lease liabilities, which is included in 'Principal repayments of finance leases,' and 'Principal repayments of financing obligations.' All other finance lease liabilities and financing obligations consists of property. In this measure, equipment acquired under finance leases is reflected as if these assets had been purchased with cash, which is not the case as these assets have been leased. The following is a reconciliation of free cash flow less equipment finance leases and principal repayments of all other finance leases and financing obligations to the most comparable GAAP cash flow measure, 'Net cash provided by (used in) operating activities,' for 2022 and 2023 (in millions):
+
+|                                                                                                                             | Year Ended December 31,   | Year Ended December 31,   |
+|-----------------------------------------------------------------------------------------------------------------------------|---------------------------|---------------------------|
+|                                                                                                                             | 2022                      | 2023                      |
+| Net cash provided by (used in) operating activities                                                                         | $ 46,752                  | $ 84,946                  |
+| Purchases of property and equipment, net of proceeds from sales and incentives                                              | (58,321)                  | (48,133)                  |
+| Free cash flow                                                                                                              | (11,569)                  | 36,813                    |
+| Equipment acquired under finance leases (1)                                                                                 | (299)                     | (310)                     |
+| Principal repayments of all other finance leases (2)                                                                        | (670)                     | (683)                     |
+| Principal repayments of financing obligations                                                                               | (248)                     | (271)                     |
+| Free cash flow less equipment finance leases and principal repayments of all other finance leases and financing obligations | $ (12,786)                | $ 35,549                  |
+| Net cash provided by (used in) investing activities                                                                         | $ (37,601)                | $ (49,833)                |
+| Net cash provided by (used in) financing activities                                                                         | $ 9,718                   | $ (15,879)                |

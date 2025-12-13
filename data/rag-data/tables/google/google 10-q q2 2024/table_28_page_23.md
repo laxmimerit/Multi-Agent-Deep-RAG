@@ -1,0 +1,21 @@
+**Page:** 23
+
+## Accumulated Other Comprehensive Income (Loss)
+Components of AOCI, net of income tax, were as follows (in millions):
+
+|                                                                              | Foreign Currency Translation Adjustments   | Unrealized Gains (Losses) on Available-for-Sale Investments   | Unrealized Gains (Losses) on Cash Flow Hedges   | Total     |
+|------------------------------------------------------------------------------|--------------------------------------------|---------------------------------------------------------------|-------------------------------------------------|-----------|
+| Balance as of December 31, 2022                                              | $ (4,142)                                  | $ (3,477)                                                     | $ 16                                            | $ (7,603) |
+| Other comprehensive income (loss) before reclassifications                   | 831                                        | 296                                                           | (50)                                            | 1,077     |
+| Amounts excluded from the assessment of hedge effectiveness recorded in AOCI | 0                                          | 0                                                             | 127                                             | 127       |
+| Amounts reclassified from AOCI                                               | 0                                          | 490                                                           | (82)                                            | 408       |
+| Other comprehensive income (loss)                                            | 831                                        | 786                                                           | (5)                                             | 1,612     |
+| Balance as of June 30, 2023                                                  | $ (3,311)                                  | $ (2,691)                                                     | $ 11                                            | $ (5,991) |
+|                                                                              | Foreign Currency Translation Adjustments   | Unrealized Gains (Losses) on Available-for-Sale Investments   | Unrealized Gains (Losses) on Cash Flow Hedges   | Total     |
+|------------------------------------------------------------------------------|--------------------------------------------|---------------------------------------------------------------|-------------------------------------------------|-----------|
+| Balance as of December 31, 2023                                              | $ (3,407)                                  | $ (965)                                                       | $ (30)                                          | $ (4,402) |
+| Other comprehensive income (loss) before reclassifications                   | (950)                                      | (453)                                                         | 367                                             | (1,036)   |
+| Amounts excluded from the assessment of hedge effectiveness recorded in AOCI | 0                                          | 0                                                             | 51                                              | 51        |
+| Amounts reclassified from AOCI                                               | 0                                          | 541                                                           | (166)                                           | 375       |
+| Other comprehensive income (loss)                                            | (950)                                      | 88                                                            | 252                                             | (610)     |
+| Balance as of June 30, 2024                                                  | $ (4,357)                                  | $ (877)                                                       | $ 222                                           | $ (5,012) |

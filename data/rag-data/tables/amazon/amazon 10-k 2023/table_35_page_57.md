@@ -1,0 +1,17 @@
+**Page:** 57
+
+## Intangible Assets
+Acquired identifiable intangible assets are valued primarily by using discounted cash flows. These assets are included within 'Other assets' on our consolidated balance sheets and consist of the following (in millions):
+
+|                                      | December 31,                    | December 31,                 | December 31,              | December 31,                    | December 31,                 | December 31,              | December 31,                    |
+|--------------------------------------|---------------------------------|------------------------------|---------------------------|---------------------------------|------------------------------|---------------------------|---------------------------------|
+|                                      | 2022                            | 2022                         | 2022                      | 2023                            | 2023                         | 2023                      | 2023                            |
+|                                      | Acquired Intangibles, Gross (1) | Accumulated Amortization (1) | Acquired Intangibles, Net | Acquired Intangibles, Gross (1) | Accumulated Amortization (1) | Acquired Intangibles, Net | Weighted Average Life Remaining |
+| Finite-lived intangible assets (2):  |                                 |                              |                           |                                 |                              |                           |                                 |
+| Marketing-related                    | $ 2,407                         | $ (601)                      | $ 1,806                   | $ 2,643                         | $ (738)                      | $ 1,905                   | 17.5                            |
+| Contract-based                       | 3,661                           | (813)                        | 2,848                     | 4,800                           | (1,129)                      | 3,671                     | 11.7                            |
+| Technology- and content- based       | 883                             | (643)                        | 240                       | 743                             | (340)                        | 403                       | 5.1                             |
+| Customer-related                     | 184                             | (128)                        | 56                        | 749                             | (188)                        | 561                       | 6.6                             |
+| Total finite-lived intangible assets | $ 7,135                         | $ (2,185)                    | $ 4,950                   | $ 8,935                         | $ (2,395)                    | $ 6,540                   | 12.5                            |
+| IPR&D and other (3)                  | $ 1,147                         |                              | $ 1,147                   | $ 1,147                         |                              | $ 1,147                   |                                 |
+| Total acquired intangibles $         | 8,282                           | $ (2,185)                    | $ 6,097                   | $ 10,082                        | $ (2,395)                    | $ 7,687                   |                                 |
