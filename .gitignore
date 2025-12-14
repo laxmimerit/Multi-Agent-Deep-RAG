@@ -220,3 +220,4 @@ nul
 *.db
 *.db-shm
 *.db-wal
+vertex-ai.json
