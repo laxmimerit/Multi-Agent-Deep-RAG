@@ -58,7 +58,7 @@ data/rag-data/
 ### Process
 1. **Load images** using PIL
 2. **Encode to base64** for API transmission
-3. **Generate descriptions** using Gemini 2.0 Flash Vision
+3. **Generate descriptions** using Gemini 2.5 Flash Multimodal 
 4. **Save as markdown** files
 
 ### AI Prompt Focus
@@ -89,7 +89,7 @@ data/rag-data/images_desc/
 
 #### 3.1 Initialize Components
 ```python
-# Gemini Embeddings (768 dimensions)
+# Gemini Embeddings (Full dimensionality)
 embeddings = GoogleGenerativeAIEmbeddings(
     model="models/gemini-embedding-001"
 )
@@ -155,7 +155,7 @@ Filters: {
 }
 ```
 
-**Gemini 2.0 Flash** extracts structured metadata from conversational queries
+**Gemini 2.5 Flash** extracts structured metadata from conversational queries
 
 #### 4.2 Hybrid Search
 
@@ -282,13 +282,13 @@ vector_store.add_documents([doc])
 | Component | Technology | Purpose |
 |-----------|------------|---------|
 | **PDF Extraction** | Docling | Convert PDFs to structured content |
-| **Vision** | Gemini 2.0 Flash | Generate image descriptions |
-| **Embeddings** | Gemini Embedding 001 | Dense semantic vectors (768D) |
+| **Vision** | Gemini 2.5 Flash | Generate image descriptions |
+| **Embeddings** | Gemini Embedding 001 | Dense semantic vectors (full dimensionality) |
 | **Sparse** | FastEmbed BM25 | Keyword matching |
 | **Vector DB** | Qdrant | Hybrid search storage |
 | **Framework** | LangChain | Abstraction layer |
 | **Reranker** | BAAI/bge-reranker-base | Cross-encoder reranking |
-| **LLM** | Gemini 2.0 Flash | Filter extraction, Q&A |
+| **LLM** | Gemini 2.5 Flash | Filter extraction, Q&A |
 
 ---
 
