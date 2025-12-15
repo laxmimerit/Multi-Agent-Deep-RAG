@@ -1,5 +1,6 @@
 **Page:** 20
 
+<!-- page break -->
 Net sales by groups of similar products and services, which also have similar economic characteristics, is as follows (in millions):
 
 |                                 | Three Months Ended June 30,   | Three Months Ended June 30,   | Six Months Ended June 30,   | Six Months Ended June 30,   |

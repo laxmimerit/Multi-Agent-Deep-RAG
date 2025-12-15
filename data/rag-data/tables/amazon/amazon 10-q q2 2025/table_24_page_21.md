@@ -1,5 +1,6 @@
 **Page:** 21
 
+<!-- page break -->
 Property and equipment, net by segment is as follows (in millions):
 
 |               | December 31, 2024   | June 30, 2025   |

@@ -1,7 +1,7 @@
 **Page:** 13
 
-Represents gross unrealized gains and losses for debt securities recorded to accumulated other comprehensive income (AOCI). (1)
 The long-term portion of marketable equity securities (subject to long-term lock-up restrictions) of $266 million as of December 31, 2024 is included within other non-current assets. (2)
+<!-- page break -->
 
 |                                                                                      |                      | As of March 31, 2025   | As of March 31, 2025   | As of March 31, 2025    | As of March 31, 2025   | As of March 31, 2025      | As of March 31, 2025   |
 |--------------------------------------------------------------------------------------|----------------------|------------------------|------------------------|-------------------------|------------------------|---------------------------|------------------------|

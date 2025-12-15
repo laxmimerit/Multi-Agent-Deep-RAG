@@ -1,12 +1,5 @@
 **Page:** 15
 
-|                                             | As of September 30, 2024   | As of September 30, 2024   | As of September 30, 2024   | As of September 30, 2024   | As of September 30, 2024   | As of September 30, 2024   |
-|---------------------------------------------|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|
-|                                             | Less than 12 Months        | Less than 12 Months        | 12 Months or Greater       | 12 Months or Greater       | Total                      | Total                      |
-|                                             | Fair Value                 | Unrealized Loss            | Fair Value                 | Unrealized Loss            | Fair Value                 | Unrealized Loss            |
-| Government bonds                            | $ 2,636                    | $ (18)                     | $ 2,920                    | $ (75)                     | $ 5,556                    | $ (93)                     |
-| Corporate debt securities                   | 570                        | (1)                        | 7,899                      | (193)                      | 8,469                      | (194)                      |
-| Mortgage-backed and asset-backed securities | 142                        | 0                          | 4,312                      | (233)                      | 4,454                      | (233)                      |
 | Total                                       | $ 3,348                    | $ (19)                     | $ 15,131                   | $ (501)                    | $ 18,479                   | $ (520)                    |
 We determine realized gains or losses on the sale or extinguishment of debt securities on a specific identification method. The following table summarizes gains and losses for debt securities, reflected as a component of OI&amp;E (in millions):
 

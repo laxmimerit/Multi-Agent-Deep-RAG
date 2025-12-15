@@ -1,12 +1,5 @@
 **Page:** 109
 
-|                   | Family of Apps   | Reality Labs   | Total    |
-|-------------------|------------------|----------------|----------|
-| December 31, 2022 | $ 19,250         | $ 1,056        | $ 20,306 |
-| Acquisitions      | -                | 357            | 357      |
-| Adjustments       | (4)              | (5)            | (9)      |
-| December 31, 2023 | 19,246           | 1,408          | 20,654   |
-| Acquisitions      | -                | -              | -        |
 | December 31, 2024 | $ 19,246         | $ 1,408        | $ 20,654 |
 The following table sets forth the major categories of the intangible assets and their weighted-average remaining useful lives (in millions):
 

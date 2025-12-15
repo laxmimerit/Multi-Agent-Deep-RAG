@@ -1,5 +1,6 @@
 **Page:** 52
 
+<!-- page break -->
 ## Alphabet Inc. CONSOLIDATED BALANCE SHEETS (in millions, except par value per share amounts)
 
 |                                                                                                                                                                                                                                                                                                                      | As of December 31,   | As of December 31,   |

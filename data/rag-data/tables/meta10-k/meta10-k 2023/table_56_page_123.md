@@ -1,10 +1,5 @@
 **Page:** 123
 
-|                                          | Year Ended December 31,   | Year Ended December 31,   | Year Ended December 31,   |
-|------------------------------------------|---------------------------|---------------------------|---------------------------|
-|                                          | 2023                      | 2022                      | 2021                      |
-| Domestic                                 | $ 43,499                  | $ 25,025                  | $ 43,669                  |
-| Foreign                                  | 3,929                     | 3,794                     | 3,615                     |
 | Income before provision for income taxes | $ 47,428                  | $ 28,819                  | $ 47,284                  |
 The provision for income taxes consists of the following (in millions):
 

@@ -1,13 +1,5 @@
 **Page:** 17
 
-|                                        | Three Months Ended March 31,   | Three Months Ended March 31,   |
-|----------------------------------------|--------------------------------|--------------------------------|
-|                                        | 2023                           | 2024                           |
-| Cost of sales                          | $ 165                          | $ 174                          |
-| Fulfillment                            | 603                            | 636                            |
-| Technology and infrastructure          | 2,574                          | 2,772                          |
-| Sales and marketing                    | 993                            | 932                            |
-| General and administrative             | 413                            | 447                            |
 | Total stock-based compensation expense | $ 4,748                        | $ 4,961                        |
 The following table summarizes our restricted stock unit activity for the three months ended March 31, 2024 (in millions):
 

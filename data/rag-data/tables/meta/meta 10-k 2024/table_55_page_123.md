@@ -1,5 +1,6 @@
 **Page:** 123
 
+<!-- page break -->
 The following table sets forth our long-lived assets by geographic area, which consist of property and equipment, net and operating lease right-of-use assets (in millions):
 
 |                         | December 31,   | December 31,   |

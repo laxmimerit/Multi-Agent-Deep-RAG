@@ -1,7 +1,7 @@
 **Page:** 40
 
-APAC  revenue  growth  was  unfavorably  affected  by  changes  in  foreign  currency  exchange  rates,  primarily  due  to  the  U.S.  dollar strengthening relative to the Japanese yen.
 Other Americas revenue growth was unfavorably affected by changes in foreign currency exchange rates, primarily due to the U.S. dollar strengthening relative to the Argentine peso.
+<!-- page break -->
 
 |                                    |                           |                           | Six Months Ended June 30, 2024   | Six Months Ended June 30, 2024   | Six Months Ended June 30, 2024   | Six Months Ended June 30, 2024   | Six Months Ended June 30, 2024   | Six Months Ended June 30, 2024   |
 |------------------------------------|---------------------------|---------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|

@@ -1,9 +1,5 @@
 **Page:** 52
 
-|                 | Year Ended December 31,   | Year Ended December 31,   | Year Ended December 31,   |
-|-----------------|---------------------------|---------------------------|---------------------------|
-|                 | 2022                      | 2023                      | 2024                      |
-| Realized gains  | $ 43                      | $ 2                       | $ 3                       |
 | Realized losses | 341                       | 67                        | 10                        |
 The following table summarizes the remaining contractual maturities of our cash equivalents and marketable debt securities as of December 31, 2024 (in millions):
 

@@ -1,5 +1,6 @@
 **Page:** 67
 
+<!-- page break -->
 Net sales by groups of similar products and services, which also have similar economic characteristics, is as follows (in millions):
 
 |                                 | Year Ended December 31,   | Year Ended December 31,   | Year Ended December 31,   |

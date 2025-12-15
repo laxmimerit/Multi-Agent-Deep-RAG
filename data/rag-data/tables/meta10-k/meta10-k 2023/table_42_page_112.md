@@ -1,13 +1,5 @@
 **Page:** 112
 
-|                                        | December 31,   | December 31,   |
-|----------------------------------------|----------------|----------------|
-|                                        | 2023           | 2022           |
-| Weighted-average remaining lease term: |                |                |
-| Finance leases                         | 14.0 years     | 14.4 years     |
-| Operating leases                       | 11.6 years     | 12.5 years     |
-| Weighted-average discount rate:        |                |                |
-| Finance leases                         | 3.4%           | 3.1%           |
 | Operating leases                       | 3.7%           | 3.2%           |
 The following is a schedule, by years, of maturities of lease liabilities as of December 31, 2023 (in millions):
 

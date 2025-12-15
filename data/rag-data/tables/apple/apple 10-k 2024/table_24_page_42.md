@@ -1,9 +1,5 @@
 **Page:** 42
 
-|                                | 2024     | 2023     |
-|--------------------------------|----------|----------|
-| Deferred tax assets            | $ 19,499 | $ 17,852 |
-| Other non-current assets       | 55,335   | 46,906   |
 | Total other non-current assets | $ 74,834 | $ 64,758 |
 ## Other Current Liabilities
 

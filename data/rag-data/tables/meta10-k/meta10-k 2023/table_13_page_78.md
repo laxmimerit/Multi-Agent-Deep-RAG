@@ -1,5 +1,6 @@
 **Page:** 78
 
+<!-- page break -->
 ## General and administrative
 
 |                            | Year Ended December 31,           | Year Ended December 31,           | Year Ended December 31,           |                                   |                                   |

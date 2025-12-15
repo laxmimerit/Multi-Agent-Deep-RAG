@@ -1,5 +1,6 @@
 **Page:** 76
 
+<!-- page break -->
 ## Subsidiaries of Apple Inc.*
 
 |                                             | Jurisdiction of Incorporation   |

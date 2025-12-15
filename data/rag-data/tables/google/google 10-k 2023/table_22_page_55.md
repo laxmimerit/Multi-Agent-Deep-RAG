@@ -1,5 +1,6 @@
 **Page:** 55
 
+<!-- page break -->
 ## Alphabet Inc. CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY (in millions)
 
 |                                                                        | Class A, Class B, Class C Stock and Additional Paid-In Capital   | Class A, Class B, Class C Stock and Additional Paid-In Capital   | Accumulated Other Comprehensive   | Retained   | Total Stockholders' Equity   |

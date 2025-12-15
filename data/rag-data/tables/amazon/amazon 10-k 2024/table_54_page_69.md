@@ -1,5 +1,6 @@
 **Page:** 69
 
+<!-- page break -->
 Depreciation and amortization expense on property and equipment, including corporate property and equipment, are allocated to all segments based on usage. Total depreciation and amortization expense, by segment, is as follows (in millions):
 
 |               | Year Ended December 31,   | Year Ended December 31,   | Year Ended December 31,   |

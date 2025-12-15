@@ -1,7 +1,7 @@
 **Page:** 31
 
-## Note 12. Net Income Per Share
 The following table sets forth the computation of basic and diluted net income per share of Class A, Class B, and Class C stock (in millions, except per share amounts):
+<!-- page break -->
 
 |                                                                                       | Three Months Ended June 30,   | Three Months Ended June 30,   | Three Months Ended June 30,   | Three Months Ended June 30,   | Three Months Ended June 30,   | Three Months Ended June 30,   | Three Months Ended June 30,   | Three Months Ended June 30,   |
 |---------------------------------------------------------------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|

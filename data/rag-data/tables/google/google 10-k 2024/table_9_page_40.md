@@ -1,7 +1,7 @@
 **Page:** 40
 
-## Research and Development
 The following table presents R&amp;D expenses (in millions, except percentages):
+<!-- page break -->
 
 |                                                               | Year Ended December 31,   | Year Ended December 31,   |
 |---------------------------------------------------------------|---------------------------|---------------------------|

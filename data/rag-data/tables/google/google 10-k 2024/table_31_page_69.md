@@ -1,7 +1,7 @@
 **Page:** 69
 
-The carrying value of equity securities is measured as the total initial cost plus the cumulative net gain (loss). Gains and losses, including impairments, are included as a component of OI&amp;E in the Consolidated Statements of Income. See Note 7 for further details on OI&amp;E. Certain of our non-marketable equity securities include our investments in VIE where we are not the primary beneficiary. See Note 5 for further details on VIE.
 The carrying values for marketable and non-marketable equity securities are summarized below (in millions):
+<!-- page break -->
 
 |                                | As of December 31, 2023      | As of December 31, 2023          | As of December 31, 2023   | As of December 31, 2024      | As of December 31, 2024          | As of December 31, 2024   |
 |--------------------------------|------------------------------|----------------------------------|---------------------------|------------------------------|----------------------------------|---------------------------|

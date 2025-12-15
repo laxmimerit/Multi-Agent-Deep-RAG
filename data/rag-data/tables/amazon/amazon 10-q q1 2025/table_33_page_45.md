@@ -1,7 +1,7 @@
 **Page:** 45
 
-On February 20, 2025, Daniel Huttenlocher, a member of our Board of Directors, adopted a trading plan intended to satisfy Rule 10b5-1(c) to sell up to 1,237 shares of Amazon.com, Inc. common stock over a period ending on November 21, 2025, subject to certain conditions.
 On March 4, 2025, Jeffrey Bezos, our founder and Executive Chair, adopted a trading plan intended to satisfy Rule 10b5-1(c) to sell up to 25,000,000 shares of Amazon.com, Inc. common stock over a period ending on May 29, 2026, subject to certain conditions.
+<!-- page break -->
 
 | Item 6.   |                | Exhibits                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |-----------|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

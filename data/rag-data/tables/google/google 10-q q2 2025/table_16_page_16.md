@@ -1,5 +1,6 @@
 **Page:** 16
 
+<!-- page break -->
 The carrying values for marketable and non-marketable equity securities are summarized below (in millions):
 
 |                                | As of December 31, 2024      | As of December 31, 2024          | As of December 31, 2024   | As of June 30, 2025          | As of June 30, 2025              | As of June 30, 2025   |

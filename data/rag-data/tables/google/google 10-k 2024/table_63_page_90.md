@@ -1,5 +1,6 @@
 **Page:** 90
 
+<!-- page break -->
 The following table presents long-lived assets by geographic area, which includes property and equipment, net and operating lease assets (in millions):
 
 |                         | As of December 31,   | As of December 31,   |

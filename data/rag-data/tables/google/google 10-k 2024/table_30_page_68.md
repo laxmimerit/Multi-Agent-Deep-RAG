@@ -1,12 +1,5 @@
 **Page:** 68
 
-|                                             | As of December 31, 2024   | As of December 31, 2024   | As of December 31, 2024   | As of December 31, 2024   | As of December 31, 2024   | As of December 31, 2024   |
-|---------------------------------------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
-|                                             | Less than 12 Months       | Less than 12 Months       | 12 Months or Greater      | 12 Months or Greater      | Total                     | Total                     |
-|                                             | Fair Value                | Unrealized Loss           | Fair Value                | Unrealized Loss           | Fair Value                | Unrealized Loss           |
-| Government bonds                            | $ 11,119                  | $ (126)                   | $ 2,576                   | $ (88)                    | $ 13,695                  | $ (214)                   |
-| Corporate debt securities                   | 4,228                     | (17)                      | 6,838                     | (168)                     | 11,066                    | (185)                     |
-| Mortgage-backed and asset-backed securities | 5,222                     | (106)                     | 3,813                     | (279)                     | 9,035                     | (385)                     |
 | Total                                       | $ 20,569                  | $ (249)                   | $ 13,227                  | $ (535)                   | $ 33,796                  | $ (784)                   |
 We determine realized gains or losses on the sale or extinguishment of debt securities on a specific identification method. The following table summarizes gains and losses for debt securities, reflected as a component of OI&amp;E (in millions):
 

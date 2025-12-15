@@ -1,5 +1,6 @@
 **Page:** 40
 
+<!-- page break -->
 The  following  table  presents  the  foreign  currency  exchange  effect  on  international  revenues  and  total  revenues  (in  millions,  except percentages):
 
 |                                    |                                  |                                  | Three Months Ended September 30, 2024   | Three Months Ended September 30, 2024   | Three Months Ended September 30, 2024   | Three Months Ended September 30, 2024   | Three Months Ended September 30, 2024   | Three Months Ended September 30, 2024   |

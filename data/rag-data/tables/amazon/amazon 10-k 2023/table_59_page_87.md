@@ -1,5 +1,6 @@
 **Page:** 87
 
+<!-- page break -->
 ## AMAZON.COM, INC. LIST OF SIGNIFICANT SUBSIDIARIES
 
 | Legal Name                           | Jurisdiction   | Percent Owned   |

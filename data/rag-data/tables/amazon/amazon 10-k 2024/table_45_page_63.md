@@ -1,10 +1,5 @@
 **Page:** 63
 
-|                                   | Year Ended December 31,   | Year Ended December 31,   | Year Ended December 31,   |
-|-----------------------------------|---------------------------|---------------------------|---------------------------|
-|                                   | 2022                      | 2023                      | 2024                      |
-| U.S.                              | $ (8,225)                 | $ 32,328                  | $ 61,947                  |
-| International                     | 2,289                     | 5,229                     | 6,667                     |
 | Income (loss) before income taxes | $ (5,936)                 | $ 37,557                  | $ 68,614                  |
 The items accounting for differences between income taxes computed at the federal statutory rate and the provision (benefit) recorded for income taxes are as follows (in millions):
 

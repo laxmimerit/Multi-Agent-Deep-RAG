@@ -1,5 +1,6 @@
 **Page:** 35
 
+<!-- page break -->
 ## Uncertain Tax Positions
 
 | Description of the Matter                | As discussed in Notes 1 and 9 of the consolidated financial statements, the Company is subject to income taxes in the U.S. and numerous foreign jurisdictions and during the ordinary course of business, there are many tax positions for which the ultimate tax determination is uncertain. As a result, significant judgment is required in evaluating the Company's tax positions and determining its provision for income taxes. The Company uses significant judgment in (1) determining whether a tax position's technical merits are more likely than not to be sustained and (2) measuring the amount of tax benefit that qualifies for recognition. As of December 31, 2024, the Company reported accrued liabilities of $6.5 billion for various tax contingencies. Auditing the recognition and measurement of the Company's tax contingencies was challenging because the evaluation of whether a tax position is more likely than not to be sustained and the measurement of the benefit of various tax positions can be complex and involves significant auditor judgment. Management's evaluation of tax positions is based on interpretations of tax laws and legal   |

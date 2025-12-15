@@ -1,5 +1,6 @@
 **Page:** 43
 
+<!-- page break -->
 The  following  table  presents  the  foreign  currency  exchange  effect  on  international  revenues  and  total  revenues  (in  millions,  except percentages):
 
 |                                    |                             |                             | Three Months Ended June 30, 2025   | Three Months Ended June 30, 2025   | Three Months Ended June 30, 2025   | Three Months Ended June 30, 2025   | Three Months Ended June 30, 2025   | Three Months Ended June 30, 2025   |

@@ -1,11 +1,5 @@
 **Page:** 17
 
-|                                     | Number of Units   | Weighted-Average Grant-Date Fair Value   |
-|-------------------------------------|-------------------|------------------------------------------|
-| Outstanding as of December 31, 2024 | 283.1             | $ 145                                    |
-| Units granted                       | 94.9              | 195                                      |
-| Units vested                        | (67.7)            | 132                                      |
-| Units forfeited                     | (18.6)            | 148                                      |
 | Outstanding as of June 30, 2025     | 291.7             | 164                                      |
 Scheduled vesting for outstanding restricted stock units as of June 30, 2025, is as follows (in millions):
 

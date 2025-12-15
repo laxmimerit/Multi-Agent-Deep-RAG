@@ -1,14 +1,5 @@
 **Page:** 18
 
-|                                                    | As of December 31, 2023   | As of September 30, 2024   |
-|----------------------------------------------------|---------------------------|----------------------------|
-| Derivatives designated as hedging instruments:     |                           |                            |
-| Foreign exchange contracts                         |                           |                            |
-| Cash flow hedges                                   | $ 18,039                  | $ 22,693                   |
-| Fair value hedges                                  | $ 2,065                   | $ 1,714                    |
-| Net investment hedges                              | $ 9,472                   | $ 7,047                    |
-| Derivatives not designated as hedging instruments: |                           |                            |
-| Foreign exchange contracts                         | $ 39,722                  | $ 49,303                   |
 | Other contracts                                    | $ 10,818                  | $ 16,756                   |
 The fair values of outstanding derivative instruments were as follows (in millions):
 

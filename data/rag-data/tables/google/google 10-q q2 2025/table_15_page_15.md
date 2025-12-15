@@ -1,12 +1,5 @@
 **Page:** 15
 
-|                                             | As of June 30, 2025   | As of June 30, 2025   | As of June 30, 2025   | As of June 30, 2025   | As of June 30, 2025   | As of June 30, 2025   |
-|---------------------------------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
-|                                             | Less than 12 Months   | Less than 12 Months   | 12 Months or Greater  | 12 Months or Greater  | Total                 | Total                 |
-|                                             | Fair Value            | Unrealized Loss       | Fair Value            | Unrealized Loss       | Fair Value            | Unrealized Loss       |
-| Government bonds                            | $ 2,391               | $ (19)                | $ 1,370               | $ (29)                | $ 3,761               | $ (48)                |
-| Corporate debt securities                   | 1,020                 | (1)                   | 4,247                 | (73)                  | 5,267                 | (74)                  |
-| Mortgage-backed and asset-backed securities | 2,666                 | (48)                  | 2,867                 | (167)                 | 5,533                 | (215)                 |
 | Total                                       | $ 6,077               | $ (68)                | $ 8,484               | $ (269)               | $ 14,561              | $ (337)               |
 We determine realized gains or losses on the sale or extinguishment of debt securities on a specific identification method. The following table summarizes gains and losses for debt securities, reflected as a component of OI&amp;E (in millions):
 

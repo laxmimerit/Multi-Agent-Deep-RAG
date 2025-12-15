@@ -1,7 +1,5 @@
 **Page:** 20
 
-- (4) Includes sales of advertising services to sellers, vendors, publishers, authors, and others, through programs such as sponsored ads, display, and video advertising.
-- (5) Includes annual and monthly fees associated with Amazon Prime memberships, as well as digital video, audiobook, digital music, e-book, and other nonAWS subscription services.
 - (6) Includes sales related to various other offerings (such as shipping services, healthcare services, and certain licensing and distribution of video content) and our co-branded credit card agreements.
 Total segment assets exclude corporate assets, such as cash and cash equivalents, marketable securities, other long-term investments, corporate facilities, goodwill and other acquired intangible assets, and tax assets. Technology infrastructure assets are allocated among the segments based on usage, with the majority allocated to the AWS segment. Total segment assets reconciled to consolidated amounts are as follows (in millions):
 

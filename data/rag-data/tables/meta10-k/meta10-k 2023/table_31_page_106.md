@@ -1,5 +1,6 @@
 **Page:** 106
 
+<!-- page break -->
 A summary of our 2022 Restructuring pre-tax charges for the years ended December 31, 2023 and 2022, including subsequent adjustments, is as follows (in millions):
 
 |                            | Year Ended December 31, 2023   | Year Ended December 31, 2023        | Year Ended December 31, 2023   | Year Ended December 31, 2023   | Year Ended December 31, 2022   | Year Ended December 31, 2022        | Year Ended December 31, 2022   | Year Ended December 31, 2022   |

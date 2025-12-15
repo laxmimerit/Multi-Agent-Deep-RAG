@@ -1,5 +1,6 @@
 **Page:** 39
 
+<!-- page break -->
 The  following  table  presents  the  foreign  currency  exchange  effect  on  international  revenues  and  total  revenues  (in  millions,  except percentages):
 
 |                                    |                         |                         | Year Ended December 31, 2024   | Year Ended December 31, 2024   | Year Ended December 31, 2024   | Year Ended December 31, 2024   | Year Ended December 31, 2024   | Year Ended December 31, 2024   |

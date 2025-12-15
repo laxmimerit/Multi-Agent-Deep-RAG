@@ -1,7 +1,7 @@
 **Page:** 46
 
-On May 17, 2024, Brian Olsavsky, Senior Vice President and Chief Financial Officer, adopted a trading plan intended to satisfy Rule 10b5-1(c) to sell up to 29,200 shares of Amazon.com, Inc. common stock over a period ending on November 29, 2024, subject to certain conditions.
 On May 22, 2024, Shelley Reynolds, Vice President, Worldwide Controller, adopted a trading plan intended to satisfy Rule 10b5-1(c) to sell up to 2,182 shares of Amazon.com, Inc. common stock over a period ending on November 29, 2024, subject to certain conditions.
+<!-- page break -->
 
 | Item 6.   |                | Exhibits                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 |-----------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

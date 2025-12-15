@@ -1,5 +1,6 @@
 **Page:** 54
 
+<!-- page break -->
 ## Alphabet Inc. CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (in millions)
 
 |                                                                                 | Year Ended December 31,   | Year Ended December 31,   | Year Ended December 31,   |

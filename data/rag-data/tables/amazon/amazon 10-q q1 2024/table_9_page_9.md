@@ -1,5 +1,6 @@
 **Page:** 9
 
+<!-- page break -->
 Required summarized financial information of Rivian as disclosed in its most recent SEC filings is as follows (in millions):
 
 |                      | Twelve Months Ended December 31,   | Twelve Months Ended December 31,   |

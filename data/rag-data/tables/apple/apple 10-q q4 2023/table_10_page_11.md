@@ -1,25 +1,7 @@
 **Page:** 11
 
-The following tables show the Company's cash, cash equivalents and marketable securities by significant investment category as of December 30, 2023 and September 30, 2023 (in millions):
-|                                           | December 30, 2023   | December 30, 2023   | December 30, 2023   | December 30, 2023   | December 30, 2023         | December 30, 2023             | December 30, 2023                 |
-|-------------------------------------------|---------------------|---------------------|---------------------|---------------------|---------------------------|-------------------------------|-----------------------------------|
-|                                           | Adjusted Cost       | Unrealized Gains    | Unrealized Losses   | Fair Value          | Cash and Cash Equivalents | Current Marketable Securities | Non-Current Marketable Securities |
-| Cash                                      | $ 29,542            | $ -                 | $ -                 | $ 29,542            | $ 29,542                  | $ -                           | $ -                               |
-| Level 1:                                  |                     |                     |                     |                     |                           |                               |                                   |
-| Money market funds                        | 2,000               | -                   | -                   | 2,000               | 2,000                     | -                             | -                                 |
-| Mutual funds                              | 448                 | 35                  | (11)                | 472                 | -                         | 472                           | -                                 |
-| Subtotal                                  | 2,448               | 35                  | (11)                | 2,472               | 2,000                     | 472                           | -                                 |
-| Level 2 : (1)                             |                     |                     |                     |                     |                           |                               |                                   |
-| U.S. Treasury securities                  | 24,041              | 12                  | (920)               | 23,133              | 7,303                     | 4,858                         | 10,972                            |
-| U.S. agency securities                    | 5,791               | -                   | (448)               | 5,343               | 243                       | 98                            | 5,002                             |
-| Non-U.S. government securities            | 17,326              | 54                  | (675)               | 16,705              | -                         | 11,175                        | 5,530                             |
-| Certificates of deposit and time deposits | 1,448               | -                   | -                   | 1,448               | 1,119                     | 329                           | -                                 |
-| Commercial paper                          | 1,361               | -                   | -                   | 1,361               | 472                       | 889                           | -                                 |
-| Corporate debt securities                 | 75,360              | 112                 | (3,964)             | 71,508              | 81                        | 13,909                        | 57,518                            |
-| Municipal securities                      | 562                 | -                   | (14)                | 548                 | -                         | 185                           | 363                               |
-| Mortgage- and asset-backed securities     | 22,369              | 53                  | (1,907)             | 20,515              | -                         | 425                           | 20,090                            |
-| Subtotal                                  | 148,258             | 231                 | (7,928)             | 140,561             | 9,218                     | 31,868                        | 99,475                            |
 | Total (2)                                 | $ 180,248           | $ 266               | $ (7,939)           | $ 172,575           | $ 40,760                  | $ 32,340                      | $ 99,475                          |
+<!-- page break -->
 
 |                                           | September 30, 2023   | September 30, 2023   | September 30, 2023   | September 30, 2023   | September 30, 2023        | September 30, 2023            | September 30, 2023                |
 |-------------------------------------------|----------------------|----------------------|----------------------|----------------------|---------------------------|-------------------------------|-----------------------------------|

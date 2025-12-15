@@ -1,23 +1,5 @@
 **Page:** 39
 
-|                                           | 2023          | 2023             | 2023              | 2023       | 2023                      | 2023                          | 2023                              |
-|-------------------------------------------|---------------|------------------|-------------------|------------|---------------------------|-------------------------------|-----------------------------------|
-|                                           | Adjusted Cost | Unrealized Gains | Unrealized Losses | Fair Value | Cash and Cash Equivalents | Current Marketable Securities | Non-Current Marketable Securities |
-| Cash                                      | $ 28,359      | $ -              | $ -               | $ 28,359   | $ 28,359                  | $ -                           | $ -                               |
-| Level 1:                                  |               |                  |                   |            |                           |                               |                                   |
-| Money market funds                        | 481           | -                | -                 | 481        | 481                       | -                             | -                                 |
-| Mutual funds and equity securities        | 442           | 12               | (26)              | 428        | -                         | 428                           | -                                 |
-| Subtotal                                  | 923           | 12               | (26)              | 909        | 481                       | 428                           | -                                 |
-| Level 2 : (1)                             |               |                  |                   |            |                           |                               |                                   |
-| U.S. Treasury securities                  | 19,406        | -                | (1,292)           | 18,114     | 35                        | 5,468                         | 12,611                            |
-| U.S. agency securities                    | 5,736         | -                | (600)             | 5,136      | 36                        | 271                           | 4,829                             |
-| Non-U.S. government securities            | 17,533        | 6                | (1,048)           | 16,491     | -                         | 11,332                        | 5,159                             |
-| Certificates of deposit and time deposits | 1,354         | -                | -                 | 1,354      | 1,034                     | 320                           | -                                 |
-| Commercial paper                          | 608           | -                | -                 | 608        | -                         | 608                           | -                                 |
-| Corporate debt securities                 | 76,840        | 6                | (5,956)           | 70,890     | 20                        | 12,627                        | 58,243                            |
-| Municipal securities                      | 628           | -                | (26)              | 602        | -                         | 192                           | 410                               |
-| Mortgage- and asset-backed securities     | 22,365        | 6                | (2,735)           | 19,636     | -                         | 344                           | 19,292                            |
-| Subtotal                                  | 144,470       | 18               | (11,657)          | 132,831    | 1,125                     | 31,162                        | 100,544                           |
 | Total (2)                                 | $ 173,752     | $ 30             | $ (11,683)        | $ 162,099  | $ 29,965                  | $ 31,590                      | $ 100,544                         |
 2022
 

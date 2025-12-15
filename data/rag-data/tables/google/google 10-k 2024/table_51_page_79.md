@@ -1,7 +1,7 @@
 **Page:** 79
 
-## Note 9. Goodwill
 Changes in the carrying amount of goodwill for the years ended December 31, 2023 and 2024 were as follows (in millions):
+<!-- page break -->
 
 |                                                    | Google Services   | Google Cloud   | Other Bets   | Total    |
 |----------------------------------------------------|-------------------|----------------|--------------|----------|

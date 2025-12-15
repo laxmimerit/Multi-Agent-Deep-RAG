@@ -1,5 +1,6 @@
 **Page:** 51
 
+<!-- page break -->
 The U.S. and China were the only countries that accounted for more than 10% of the Company's net sales in 2023, 2022 and 2021. Net sales for 2023, 2022 and 2021 and long-lived assets as of September 30, 2023 and September 24, 2022 were as follows (in millions):
 
 |                 | 2023      | 2022      | 2021      |

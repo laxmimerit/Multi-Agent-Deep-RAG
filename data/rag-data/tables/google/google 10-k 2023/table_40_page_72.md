@@ -1,10 +1,5 @@
 **Page:** 72
 
-|                            | Year Ended December 31,   | Year Ended December 31,   | Year Ended December 31,   |
-|----------------------------|---------------------------|---------------------------|---------------------------|
-|                            | 2021                      | 2022                      | 2023                      |
-| Operating lease cost       | $ 2,699                   | $ 2,900                   | $ 3,362                   |
-| Variable lease cost        | 726                       | 838                       | 1,182                     |
 | Total operating lease cost | $ 3,425                   | $ 3,738                   | $ 4,544                   |
 Supplemental information related to operating leases was as follows (in millions):
 

@@ -1,5 +1,6 @@
 **Page:** 68
 
+<!-- page break -->
 Total segment assets exclude corporate assets, such as cash and cash equivalents, marketable securities, other long-term investments, corporate facilities, goodwill and other acquired intangible assets, and tax assets. Technology infrastructure assets are allocated among the segments based on usage, with the majority allocated to the AWS segment. Total segment assets reconciled to consolidated amounts are as follows (in millions):
 
 |                   | December 31,   | December 31,   | December 31,   |

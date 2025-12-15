@@ -1,11 +1,5 @@
 **Page:** 15
 
-|                                 | As of September 30, 2024   |
-|---------------------------------|----------------------------|
-| Due in 1 year or less           | $ 5,439                    |
-| Due in 1 year through 5 years   | 36,972                     |
-| Due in 5 years through 10 years | 12,416                     |
-| Due after 10 years              | 13,220                     |
 | Total                           | $ 68,047                   |
 The following tables present fair values and gross unrealized losses recorded to AOCI, aggregated by investment category and the length of time that individual securities have been in a continuous loss position (in millions):
 

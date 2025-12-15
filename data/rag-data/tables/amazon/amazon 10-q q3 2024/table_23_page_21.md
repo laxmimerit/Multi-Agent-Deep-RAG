@@ -1,5 +1,6 @@
 **Page:** 21
 
+<!-- page break -->
 Net sales by groups of similar products and services, which also have similar economic characteristics, is as follows (in millions):
 
 |                                 | Three Months Ended September 30,   | Three Months Ended September 30,   | Nine Months Ended September 30,   | Nine Months Ended September 30,   |

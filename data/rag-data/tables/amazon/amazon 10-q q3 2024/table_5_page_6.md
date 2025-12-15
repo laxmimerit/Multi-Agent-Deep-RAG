@@ -1,5 +1,6 @@
 **Page:** 6
 
+<!-- page break -->
 ## AMAZON.COM, INC. CONSOLIDATED BALANCE SHEETS (in millions, except per share data)
 
 |                                                                                                                                  | December 31, 2023   | September 30, 2024 (unaudited)   |
