@@ -72,8 +72,8 @@ async def get_tools():
 
     tools = await client.get_tools()
 
-    print(f"Loaded {len(tools)} tools")
-    print(f"Tools available: {[tool.name for tool in tools]}")
+    # print(f"Loaded {len(tools)} tools")
+    # print(f"Tools available: {[tool.name for tool in tools]}")
 
     return tools
 
