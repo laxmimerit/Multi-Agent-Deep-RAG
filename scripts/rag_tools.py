@@ -143,28 +143,34 @@ def hybrid_search(query: str, k: int = 5):
     return results
 
 
+
+import subprocess
+import sys
+
 @tool
-def live_finance_researcher(query: str) -> str:
+def live_finance_researcher(query: str):
     """
     Research live stock data using Yahoo Finance MCP.
-
+    
     Use this tool to get:
     - Current stock prices and real-time market data
     - Latest financial news
     - Stock recommendations and analyst ratings
     - Option chains and expiration dates
     - Recent stock actions (splits, dividends)
-
+    
     Args:
         query: The financial research question about current market data
-
+        
     Returns:
         Research results from Yahoo Finance
     """
+
     code = f"""
 import asyncio
 from scripts.yahoo_mcp import finance_research
 asyncio.run(finance_research("{query}"))
 """
     result = subprocess.run([sys.executable, '-c', code], capture_output=True, text=True)
+
     return result.stdout
