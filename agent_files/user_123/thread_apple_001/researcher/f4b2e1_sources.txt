@@ -1,0 +1,26 @@
+### Sources for Theme 3: Segment Breakdown
+
+1. **Apple Inc. Form 10-K (Fiscal Year 2024)**
+   - **Source File:** apple 10-k 2024.md
+   - **Key Data:** 
+     - Page 26: Products and Services Performance table (2024, 2023, 2022).
+     - Page 38: Disaggregated net sales table for 2024, 2023, and 2022.
+   - **Metrics:**
+     - iPhone 2024: $201,183M
+     - Mac 2024: $29,984M
+     - iPad 2024: $26,694M
+     - Wearables, Home and Accessories 2024: $37,005M
+     - Services 2024: $96,169M
+     - Total 2024: $391,035M
+
+2. **Apple Inc. Form 10-K (Fiscal Year 2023)**
+   - **Source File:** apple 10-k 2023.md
+   - **Key Data:**
+     - Page 38: Net sales disaggregated by significant products and services.
+   - **Metrics:**
+     - iPhone 2023: $200,583M
+     - Mac 2023: $29,357M
+     - iPad 2023: $28,300M
+     - Wearables, Home and Accessories 2023: $39,845M
+     - Services 2023: $85,200M
+     - Total 2023: $383,285M

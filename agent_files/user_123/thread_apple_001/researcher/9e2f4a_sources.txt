@@ -1,0 +1,17 @@
+### Sources for Theme 2: Margins
+
+1. **Apple Inc. Form 10-K (Fiscal Year 2023)**
+   - **Source File:** apple 10-k 2023.md
+   - **Key Data:** 
+     - Page 31: Consolidated Statements of Operations.
+     - 2023 Gross Margin: $169,148M / $383,285M = 44.1%.
+     - 2023 Operating Income: $114,301M / $383,285M = 29.8%.
+
+2. **Apple Inc. Form 10-Q (Period Ended June 29, 2024)**
+   - **Source File:** apple 10-q q2 2024.md (Covers Q1, Q2, and Q3 FY 2024)
+   - **Key Data:**
+     - Page 4: Condensed Consolidated Statements of Operations (Unaudited).
+     - 9 Months Ended June 29, 2024 Gross Margin: $136,804M / $296,105M = 46.2%.
+     - 9 Months Ended June 29, 2024 Operating Income: $93,625M / $296,105M = 31.6%.
+     - Comparative 9 Months Ended July 1, 2023 Gross Margin: $128,721M / $293,787M = 43.8%.
+     - Comparative 9 Months Ended July 1, 2023 Operating Income: $87,332M / $293,787M = 29.7%.
