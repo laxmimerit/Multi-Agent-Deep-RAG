@@ -18,6 +18,8 @@ from qdrant_client.models import Filter, FieldCondition, MatchValue
 from scripts.schema import ChunkMetadata
 
 from langchain_core.tools import tool
+import subprocess
+import sys
 
 # Configuration
 COLLECTION_NAME = "financial_docs"
@@ -139,3 +141,30 @@ def hybrid_search(query: str, k: int = 5):
     results = vector_store.similarity_search(query=query, k=k, filter=qdrant_filter)
 
     return results
+
+
+@tool
+def live_finance_researcher(query: str) -> str:
+    """
+    Research live stock data using Yahoo Finance MCP.
+
+    Use this tool to get:
+    - Current stock prices and real-time market data
+    - Latest financial news
+    - Stock recommendations and analyst ratings
+    - Option chains and expiration dates
+    - Recent stock actions (splits, dividends)
+
+    Args:
+        query: The financial research question about current market data
+
+    Returns:
+        Research results from Yahoo Finance
+    """
+    code = f"""
+import asyncio
+from scripts.yahoo_mcp import finance_research
+asyncio.run(finance_research("{query}"))
+"""
+    result = subprocess.run([sys.executable, '-c', code], capture_output=True, text=True)
+    return result.stdout
