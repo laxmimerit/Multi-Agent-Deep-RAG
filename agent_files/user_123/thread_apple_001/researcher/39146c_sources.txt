@@ -1,0 +1,16 @@
+### Sources for Apple Profitability Analysis (Theme 2)
+
+**Source 1: Apple Inc. FY 2024 Form 10-K**
+- **Type:** SEC Filing (Annual Report)
+- **Period:** Fiscal year ended September 28, 2024.
+- **Key Data:** Consolidated Statements of Operations (p. 32), Note 3: Earnings Per Share (p. 39), Note 7: Income Taxes (p. 43).
+- **URL:** https://www.apple.com/investor/ (Accessed via internal hybrid search)
+- **Snippet:** "Net income $ 93,736 [2024] ... $ 96,995 [2023] ... As a result, during the fourth quarter of 2024 the Company recorded a one-time income tax charge of $10.2 billion, net, which represents $15.8 billion payable to Ireland via release of the escrow..."
+
+**Source 2: Apple Q4 2024 Earnings Data (Internal Hybrid Search)**
+- **Key Findings:** Confirmed the gross margin expansion to 46.2% and the growth in Services gross margin to 73.9%.
+- **Metadata:** file_hash: 230bdff2c0673245238fe01d46c256ca8e031f32d6e9ba5989e4dcd2a189a63d.
+
+**Source 3: Yahoo Finance / Live Finance Research (Proxy for context)**
+- **Key Findings:** Discussion of share buybacks and their impact on EPS.
+- **Reference:** Confirmed weighted-average diluted shares reduction as a tool for EPS support.
