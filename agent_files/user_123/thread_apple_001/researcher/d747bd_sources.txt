@@ -1,0 +1,34 @@
+### Sources for Apple Gross Margins and Operating Expenses (2023-2024)
+
+**Source 1: Apple Inc. Fiscal 2023 Form 10-K**
+- **Date:** November 2, 2023
+- **Key Data:**
+    - Total Net Sales: $383,285M
+    - Total Gross Margin: $169,148M (44.1%)
+    - Products GM: 36.5%
+    - Services GM: 70.8%
+    - R&D Expense: $29,915M (+14% YoY)
+    - SG&A Expense: $24,932M (-1% YoY)
+    - Total OpEx: $54,847M (+7% YoY)
+- **Snippets:** "Products gross margin percentage increased during 2023 compared to 2022 due to cost savings and a different Products mix, partially offset by the weakness in foreign currencies... Services gross margin percentage decreased during 2023 compared to 2022 due to higher Services costs and the weakness in foreign currencies."
+
+**Source 2: Apple Inc. Fiscal 2024 Form 10-K**
+- **Date:** November 1, 2024
+- **Key Data:**
+    - Total Net Sales: $391,035M
+    - Total Gross Margin: $180,683M (46.2%)
+    - Products GM: 37.2%
+    - Services GM: 73.9%
+    - R&D Expense: $31,370M (+5% YoY)
+    - SG&A Expense: $26,097M (+5% YoY)
+    - Total OpEx: $57,467M (+5% YoY)
+- **Snippets:** "Services gross margin percentage increased during 2024 compared to 2023 due to a different Services mix... Products gross margin and Products gross margin percentage increased during 2024 compared to 2023 due to cost savings."
+
+**Comparison Summary Table (in millions):**
+| Metric | 2022 | 2023 | 2024 |
+| :--- | :--- | :--- | :--- |
+| Gross Margin % | 43.3% | 44.1% | 46.2% |
+| Products GM % | 36.3% | 36.5% | 37.2% |
+| Services GM % | 71.7% | 70.8% | 73.9% |
+| Total OpEx | $51,345 | $54,847 | $57,467 |
+| OpEx % of Sales | 13% | 14% | 15% |

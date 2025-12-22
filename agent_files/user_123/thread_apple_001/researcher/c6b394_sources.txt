@@ -1,0 +1,23 @@
+Sources for Theme 2: Apple Segment Performance (2023-2024)
+
+1. Apple Form 10-K for the fiscal year ended September 28, 2024
+   - Source: apple 10-k 2024.md
+   - Key Data: Detailed revenue table for 2024, 2023, and 2022. Segment-specific commentary on iPhone (Pro model strength), Services (Ads, Cloud, App Store), Mac (laptop growth), iPad (Pro/entry-level decline), and Wearables (overall decline).
+
+2. Apple Form 10-K for the fiscal year ended September 30, 2023
+   - Source: apple 10-k 2023.md
+   - Key Data: 2023 vs 2022 performance data. Highlights the 27% drop in Mac revenue and the 9% growth in Services. Notes the headwind from foreign currency.
+
+3. Apple Form 10-Q for the third fiscal quarter ended June 29, 2024
+   - Source: apple 10-q q2 2024.md (Note: Filename says q2 but content refers to nine months ended June 29, 2024, which is Q3)
+   - Key Data: Shows the Q3 spike in iPad revenue (+24%) and continuous Services strength.
+
+4. Apple Form 10-Q for the first fiscal quarter ended December 30, 2023
+   - Source: apple 10-q q4 2023.md (Note: Content refers to the quarter ended Dec 30, which is Q1 2024)
+   - Key Data: Segment breakdown for the holiday quarter, showing iPhone growth (+6%) and iPad decline (-25%).
+
+Key Snippets:
+- "Mac net sales decreased 27% or $10.8 billion during 2023 compared to 2022 due primarily to lower net sales of laptops."
+- "iPhone net sales were relatively flat during 2024 compared to 2023."
+- "Services net sales increased during 2024 compared to 2023 due primarily to higher net sales from advertising, the App Store and cloud services."
+- "Wearables, Home and Accessories net sales decreased during 2024... due primarily to lower net sales of Wearables and Accessories."

@@ -1,0 +1,30 @@
+### SOURCES - THEME 3: REGIONAL PERFORMANCE
+
+**Source 1: Apple Inc. 10-K (Annual Report) for Fiscal Year 2024**
+*   **File:** apple 10-k 2024.md
+*   **Key Data:** Segment Operating Performance table (p. 25).
+*   **Notes:** Provides the full fiscal year 2024 vs 2023 vs 2022 breakdown. Explains drivers for each region (Services in Americas/Europe, iPhone in Japan/Europe, declines in China).
+
+**Source 2: Apple Inc. 10-Q (Quarterly Report) Q2 2024**
+*   **File:** apple 10-q q2 2024.md
+*   **Key Data:** Nine-month period ended June 29, 2024 performance (p. 17).
+*   **Notes:** Details the 10% decline in Greater China for the first nine months of fiscal 2024 and currency headwinds (renminbi).
+
+**Source 3: Apple Inc. 10-Q (Quarterly Report) Q4 2023 (labeled as such in search, actually contains Q1 2024 data)**
+*   **File:** apple 10-q q4 2023.md (Note: Content shows Q1 2024 results)
+*   **Key Data:** Segment performance for three months ended Dec 30, 2023 (p. 17).
+*   **Notes:** Shows the sharp 13% decline in Greater China revenue during the crucial holiday quarter (Q1 2024).
+
+**Source 4: Apple Inc. 10-Q (Quarterly Report) Q1 2024**
+*   **File:** apple 10-q q1 2024.md
+*   **Key Data:** Six-month period ended March 30, 2024 performance (p. 17).
+*   **Notes:** Confirms the 11% decline in Greater China for the first half of the fiscal year.
+
+**Source 5: Apple 8-K (Earnings Press Release) Q1 2024**
+*   **File:** apple 8-k q4 2023.md (Note: Content covers Q1 2024 results)
+*   **Key Data:** CEO Tim Cook and CFO Luca Maestri commentary on record EPS and 2.2 billion active devices.
+*   **Notes:** Highlights Services record revenue as a driver across geographies.
+
+**Source 6: Live Finance Researcher - Yahoo Finance News (Dec 2024)**
+*   **Key Data:** Meeting between China's Vice Commerce Minister and Apple COO Sabih Khan.
+*   **Notes:** Suggests ongoing diplomatic and operational efforts to address the challenges in the Chinese market.

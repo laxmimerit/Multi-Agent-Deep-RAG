@@ -1,0 +1,34 @@
+### Sources for Theme 5: Apple's Capital Return Program and Cash Position
+
+**Source 1: Apple Inc. 10-K Annual Report for the Fiscal Year Ended September 28, 2024**
+- **Date:** Filed November 2024
+- **Key Data Point:** Repurchased 499 million shares for $95.0 billion in FY 2024.
+- **Key Data Point:** Operating cash flow of $118,254 million in FY 2024.
+- **Key Data Point:** Total cash, cash equivalents, and marketable securities (current and non-current) of $156,650 million.
+- **Key Data Point:** Total term debt (current and non-current) of $96,662 million plus $9,967 million in commercial paper.
+- **Key Data Point:** Dividends and dividend equivalents declared per share: $0.98 in 2024 vs $0.94 in 2023.
+
+**Source 2: Apple Inc. 10-K Annual Report for the Fiscal Year Ended September 30, 2023**
+- **Date:** Filed November 2023
+- **Key Data Point:** Operating cash flow of $110,543 million in FY 2023.
+- **Key Data Point:** Cash used for repurchases of common stock: $77,550 million.
+- **Key Data Point:** Payments for dividends and dividend equivalents: $15,025 million.
+
+**Source 3: Apple Inc. 10-Q Quarterly Report for the Period Ended March 30, 2024 (Q2 2024)**
+- **Date:** Filed May 2024
+- **Key Finding:** Announcement of additional $110 billion share repurchase authorization on May 2, 2024.
+- **Key Finding:** Dividend increase to $0.25 per share.
+
+**Source 4: Apple Inc. 8-K Current Report (Q4 2023 Earnings Release)**
+- **Date:** November 2, 2023
+- **Key Data Point:** Detailed balance sheet as of Sept 30, 2023, showing cash and marketable securities breakdown.
+
+**Summary of Key Metrics (Millions USD):**
+| Metric | FY 2024 | FY 2023 |
+| :--- | :--- | :--- |
+| Operating Cash Flow | $118,254 | $110,543 |
+| Share Repurchases | $94,949 | $77,550 |
+| Dividends Paid | $15,234 | $15,025 |
+| Total Cash/Securities | $156,650 | $162,099 |
+| Total Debt (inc. CP) | $106,629 | $111,088 |
+| Net Cash | $50,021 | $51,011 |

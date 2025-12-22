@@ -1,0 +1,41 @@
+### Sources for Apple Revenue and Net Income Trends (2023-2024)
+
+**1. Apple Inc. 10-K (Fiscal Year Ended September 30, 2023)**
+- **URL:** SEC EDGAR (Source file: apple 10-k 2023.md)
+- **Key Data:**
+    - Total Net Sales: $383,285 million
+    - Net Income: $96,995 million
+    - Diluted EPS: $6.13
+    - Gross Margin: $169,148 million
+    - Notes: Fiscal year 2023 had 53 weeks; 2022 had 52 weeks.
+
+**2. Apple Inc. 10-K (Fiscal Year Ended September 28, 2024)**
+- **URL:** SEC EDGAR (Source file: apple 10-k 2024.md)
+- **Key Data:**
+    - Total Net Sales: $391,035 million
+    - Net Income: $93,736 million
+    - Operating Income: $123,216 million
+    - Gross Margin: $180,683 million
+    - One-time Tax Charge: $10.2 billion related to the State Aid Decision (Ireland tax case) announced Sept 10, 2024.
+    - Effective Tax Rate: 24.1% (compared to 14.7% in 2023).
+
+**3. Apple Inc. 10-Q for Q1 2024 (Three Months Ended Dec 30, 2023)**
+- **Note:** Extracted from comparison tables in subsequent 10-Qs and 10-K.
+- **Key Data:** Net Sales: $119,575M, Net Income: $33,916M.
+
+**4. Apple Inc. 10-Q for Q2 2024 (Three Months Ended March 30, 2024)**
+- **URL:** SEC EDGAR (Source file: apple 10-q q1 2024.md - *Note: Search results incorrectly labeled this as Q1, but it contains Q2 March 30 data*)
+- **Key Data:**
+    - Total Net Sales: $90,753 million
+    - Net Income: $23,636 million
+    - iPhone sales: $45,963 million (-10% YoY for the quarter).
+
+**5. Apple Inc. 10-Q for Q3 2024 (Three Months Ended June 29, 2024)**
+- **URL:** SEC EDGAR (Source file: apple 10-q q2 2024.md - *Note: Search results incorrectly labeled this as Q2, but it contains Q3 June 29 data*)
+- **Key Data:**
+    - Total Net Sales: $85,777 million
+    - Net Income: $21,448 million
+    - Services Revenue: $24,213 million.
+
+**6. Analysis of Ireland State Aid Case (Found in 10-K 2024)**
+- **Details:** On September 10, 2024, the European Court of Justice (ECJ) set aside a previous judgment and confirmed the European Commission's 2016 State Aid Decision. Apple recorded a one-time income tax charge of $10.2 billion (net) in Q4 2024. This represented $15.8 billion payable to Ireland, partially offset by a $4.8 billion U.S. foreign tax credit.
