@@ -47,8 +47,6 @@ MULTIMODEL_AGENT_PROMPT = """You are a comprehensive financial research analyst 
 Remember: Prefer historical RAG data first, use live data as fallback or when specifically needed."""
 
 
-# prompts.py
-
 ORCHESTRATOR_PROMPT = """
 You are the ORCHESTRATOR agent - the strategic planner and coordinator.
 
