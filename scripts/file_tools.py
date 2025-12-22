@@ -2,15 +2,17 @@
 
 import os
 import hashlib
+from langchain_core.messages import ToolMessage
+
 from typing import Annotated
+from langchain.agents import AgentState
 from typing_extensions import NotRequired
 
-from langchain.agents import AgentState
 from langchain_core.tools import tool, InjectedToolCallId
-from langchain_core.messages import ToolMessage
 from langgraph.prebuilt import InjectedState
 from langgraph.types import Command
 
+BASE_FILE_DIR = os.getenv("AGENT_FILE_BASE_DIR", "agent_files")
 
 # -------------------------
 # Shared Agent State
@@ -30,8 +32,7 @@ class DeepAgentState(AgentState):
     thread_id: NotRequired[str]
 
 
-BASE_FILE_DIR = os.getenv("AGENT_FILE_BASE_DIR", "agent_files")
-
+## Utility Methods
 def _thread_folder(state: DeepAgentState) -> str:
     """Return the folder for this user/thread, create if missing."""
     user = state.get("user_id") or "default_user"
@@ -55,7 +56,6 @@ def _disk_path(state: DeepAgentState, file_path: str) -> str:
     full = os.path.join(folder, safe_path)
     os.makedirs(os.path.dirname(full), exist_ok=True)
     return full
-
 
 # -------------------------
 # Tools
