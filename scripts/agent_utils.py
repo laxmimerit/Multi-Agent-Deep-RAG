@@ -4,9 +4,9 @@ Utility functions for agent operations.
 from langchain.messages import HumanMessage, AIMessage, ToolMessage
 
 
-def stream_agent_response(agent, query, thread_id="default"):
+def stream_agent_response(agent, query, thread_id="default", user_id=None):
 
-    config = {'configurable': {'thread_id': thread_id}}
+    config = {'configurable': {'thread_id': thread_id, 'user_id': user_id}}
     
     for chunk in agent.stream(
         {'messages': [HumanMessage(query)]},

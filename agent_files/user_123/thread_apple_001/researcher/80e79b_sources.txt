@@ -1,0 +1,45 @@
+### Sources for Theme 5: Apple Capital Allocation and Cash Flow (2023-2024)
+
+**1. SEC Filing: Apple Inc. Form 10-K (Fiscal Year Ended Sept 30, 2023)**
+- **Source:** apple 10-k 2023.md
+- **Key Data:** 
+  - Operating Cash Flow: $110.543 billion.
+  - Common stock repurchased: $77.550 billion (Statement of Cash Flows); $76.6 billion (MD&A).
+  - Dividends paid: $15.025 billion.
+  - Quarterly dividend increased to $0.24 in May 2023.
+  - Authorized $90 billion repurchase program in May 2023.
+
+**2. SEC Filing: Apple Inc. Form 10-K (Fiscal Year Ended Sept 28, 2024)**
+- **Source:** apple 10-k 2024.md
+- **Key Data:**
+  - Operating Cash Flow: $118.254 billion.
+  - Common stock repurchased: $94.949 billion.
+  - Dividends paid: $15.234 billion.
+  - Net income: $93.736 billion.
+  - Authorized $110 billion repurchase program on May 2, 2024.
+  - Remaining availability under repurchase program (as of Sept 28, 2024): $89.074 billion.
+
+**3. SEC Filing: Apple Inc. Form 10-Q (Quarter Ended June 29, 2024 - Q3 2024)**
+- **Source:** apple 10-q q2 2024.md (Note: Filename suggests Q2 but content refers to nine months ended June 29, 2024)
+- **Key Data:**
+  - Remaining availability under May 2023 program was $4.1 billion as of June 29, 2024.
+  - Board authorized $110 billion additional program on May 2, 2024.
+  - Shares purchased in Q3 2024 (Mar 31 - June 29): 138.8 million shares for total value of ~$26 billion (calculated from monthly breakdown).
+
+**4. SEC Filing: Apple Inc. Form 10-Q (Quarter Ended March 30, 2024 - Q2 2024)**
+- **Source:** apple 10-q q1 2024.md (Note: Filename suggests Q1 but content refers to six months ended March 30, 2024)
+- **Key Data:**
+  - Six months operating cash flow: $62.585 billion.
+  - Repurchased $23.5 billion in stock and paid $3.7 billion in dividends during the second quarter.
+  - Announced dividend increase to $0.25 on May 2, 2024.
+
+**5. Yahoo Finance Market Data / Live Researcher**
+- **Source:** Yahoo Finance (via live_finance_researcher)
+- **Key Data:**
+  - Dividend payment history for 2024: $0.24 (Feb), $0.25 (May, Aug, Nov).
+  - Confirmation of no stock splits in 2024.
+
+**Key Snippets:**
+- "On May 2, 2024, the Company announced the Board of Directors had authorized an additional program to repurchase up to $110 billion of the Company's common stock." (Apple 10-Q, June 2024)
+- "During 2024, the Company repurchased 499 million shares of its common stock for $95.0 billion." (Apple 10-K, 2024)
+- "The Company generated nearly $40 billion of operating cash flow, and returned almost $27 billion to our shareholders [in Q1 2024]." (Luca Maestri, CFO, Q1 2024 Earnings Release)

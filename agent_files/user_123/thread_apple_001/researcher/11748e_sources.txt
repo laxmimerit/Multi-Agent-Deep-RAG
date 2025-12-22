@@ -1,0 +1,37 @@
+### Sources for Theme 3: Segment Performance (2023-2024)
+
+1. **Source Name:** Apple Inc. Annual Report 2023 (Form 10-K)
+   - **Date:** September 30, 2023
+   - **Key Data:** 
+     - iPhone: $200,583M (-2%)
+     - Mac: $29,357M (-27%)
+     - iPad: $28,300M (-3%)
+     - Wearables, Home and Accessories: $39,845M (-3%)
+     - Services: $85,200M (+9%)
+     - Total Net Sales: $383,285M (-3%)
+   - **Snippet:** "Services net sales increased 9% or $7.1 billion during 2023 compared to 2022 due to higher net sales across all lines of business."
+
+2. **Source Name:** Apple Inc. Quarterly Report (Form 10-Q) - Q3 2024
+   - **Period Ended:** June 29, 2024
+   - **Key Data (9 Months Ended June 29, 2024):**
+     - iPhone: $154,961M (-1%)
+     - Mac: $22,240M (+2%)
+     - iPad: $19,744M (-10%)
+     - Wearables, Home and Accessories: $27,963M (-8%)
+     - Services: $71,197M (+13%)
+     - Total Net Sales: $296,105M (+1%)
+   - **Key Data (3 Months Ended June 29, 2024):**
+     - iPad: $7,162M (+24% YoY)
+     - Services: $24,213M (+14% YoY)
+
+3. **Source Name:** Apple Inc. Quarterly Report (Form 10-Q) - Q2 2024
+   - **Period Ended:** March 30, 2024
+   - **Key Data (3 Months Ended March 30, 2024):**
+     - iPhone: $45,963M (-10% YoY)
+     - Mac: $7,451M (+4% YoY)
+     - Services: $23,867M (+14% YoY)
+   - **Snippet:** "iPhone net sales decreased during the second quarter of 2024 compared to the second quarter of 2023 due to lower net sales of Pro models."
+
+4. **Source Name:** Yahoo Finance / Live Researcher Query
+   - **Topic:** Apple Q4 2024 Earnings Status
+   - **Finding:** Q4 2024 earnings report not yet available as of the research date.
