@@ -1,0 +1,21 @@
+### Sources for Theme 2: Amazon Segment Analysis 2023-2024
+
+**Source 1: Amazon 10-K (Fiscal Year Ended Dec 31, 2024)**
+- **Document ID:** 74e1d52f-fc02-40f9-8a2f-e82b9ea75d86 / 96f22cd7-3d68-4678-af99-0c3cf9b9748a
+- **Key Data:**
+    - North America 2024 Revenue: $387,497M; Op Income: $24,967M
+    - International 2024 Revenue: $142,906M; Op Income: $3,792M
+    - AWS 2024 Revenue: $107,556M; Op Income: $39,834M
+    - (Includes 2022 and 2023 comparative figures)
+
+**Source 2: Amazon 10-Q (Q1 2024)**
+- **Document ID:** 92ee5e51-a0ca-4d89-9be9-91262306a587
+- **Key Data:**
+    - Q1 2024 Operating Income: NA ($4,983M), Intl ($903M), AWS ($9,421M)
+    - Comparison to Q1 2023: NA ($898M), Intl (-$1,247M), AWS ($5,123M)
+
+**Source 3: Amazon 10-Q (Q3 2024)**
+- **Document ID:** 80713e0f-5165-4ee0-b17b-26ef48807aa2 / e99b82e9-cd54-42c9-b9e0-d2886babb0ee
+- **Key Data:**
+    - Nine Months Ended Sept 30, 2024 Operating Income: NA ($15,711M), Intl ($2,477M), AWS ($29,202M)
+    - AWS growth rate 19% in Q3 2024.

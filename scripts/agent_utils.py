@@ -8,8 +8,10 @@ def stream_agent_response(agent, query, thread_id="default", user_id=None):
 
     config = {'configurable': {'thread_id': thread_id, 'user_id': user_id}}
     
+    state = {'messages': [HumanMessage(query)], 'thread_id': thread_id, 'user_id': user_id}
+    
     for chunk in agent.stream(
-        {'messages': [HumanMessage(query)]},
+        state,
         stream_mode='messages',
         config=config
     ):

@@ -1,0 +1,24 @@
+### Sources for Amazon Segment Performance (2023-2024)
+
+**Primary Sources:**
+1. **Amazon.com, Inc. 2023 Annual Report (Form 10-K)**
+   - Date: Fiscal Year Ended December 31, 2023
+   - Key Data: Full year 2022/2023 comparisons for North America, International, and AWS.
+   - Note: Documented the turnaround in North America operating income ($14.9B vs -$2.8B).
+
+2. **Amazon.com, Inc. Q1 2024 Quarterly Report (Form 10-Q)**
+   - Date: Quarter Ended March 31, 2024
+   - Key Data: Q1 segment revenue: North America ($86.3B), International ($31.9B), AWS ($25.0B).
+
+3. **Amazon.com, Inc. Q2 2024 Quarterly Report (Form 10-Q)**
+   - Date: Quarter Ended June 30, 2024
+   - Key Data: 6-month aggregate operating income for segments. AWS ($18.8B), North America ($10.0B).
+
+4. **Amazon.com, Inc. Q3 2024 Quarterly Report (Form 10-Q)**
+   - Date: Quarter Ended September 30, 2024
+   - Key Data: 9-month performance summary. AWS revenue growth acceleration to 19%. International segment reaching $2.5B in 9-month operating income.
+
+**Key Findings & Snippets:**
+- **AWS Profitability Factor:** "a reduction in depreciation and amortization expense from our change in the estimated useful lives of our servers" (Q3 2024 10-Q).
+- **Retail Drivers:** "The sales growth primarily reflects increased unit sales, including sales by third-party sellers, advertising sales, and subscription services" (Common across 2023/2024 filings).
+- **International Pivot:** International segment flipped from a $2.2B loss (9-mo 2023) to a $2.5B profit (9-mo 2024).

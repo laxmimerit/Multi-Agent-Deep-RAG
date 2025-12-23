@@ -1,0 +1,30 @@
+### Sources for Theme 1: Amazon Financial Overview 2023-2024
+
+**Source 1: Amazon 10-K (Fiscal Year Ended Dec 31, 2023)**
+- **Document ID:** 5ba6dff3-b25c-436f-b89c-816174ba4247
+- **Key Data:**
+    - 2023 Net Sales: $574,785M
+    - 2023 Operating Income: $36,852M
+    - 2023 Net Income: $30,425M
+    - 2022 Net Sales: $513,983M
+    - 2022 Net Loss: ($2,722M)
+
+**Source 2: Amazon 10-Q (Q1 2024)**
+- **Document ID:** 922c6fa6-c83a-4f75-aa38-c9e39c5c8ea7 / 61afaca2-d6ca-4ec2-8332-701f7d3ab0a6
+- **Key Data:**
+    - Q1 2024 Net Sales: $143,313M (13% YoY growth)
+    - Q1 2024 AWS Sales: $25,037M (17% YoY growth)
+
+**Source 3: Amazon 10-Q (Q2 2024)**
+- **Document ID:** d6157aa6-add-4318-8181-05a77d9b1653
+- **Key Data:**
+    - Q2 2024 Net Sales: $147,977M (10% YoY growth)
+    - Q2 2024 AWS Sales: $26,281M (19% YoY growth)
+
+**Source 4: Amazon 10-K (Fiscal Year Ended Dec 31, 2024)**
+- **Document ID:** 0e799907-218a-4fa2-a3e9-45ec0e9c2e1b / 3838b33d-bc10-4cd6-8811-3666132b3f85
+- **Key Data:**
+    - 2024 Net Sales: $637,959M (11% YoY growth)
+    - 2024 Net Income: $59,248M
+    - 2024 AWS Sales: $107,556M
+    - 2024 Advertising Sales: $56,214M

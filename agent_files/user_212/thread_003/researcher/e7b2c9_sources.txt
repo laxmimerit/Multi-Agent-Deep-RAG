@@ -1,0 +1,23 @@
+### Sources for Theme 3: Amazon Profitability and Cash Flow 2023-2024
+
+**Source 1: Amazon 10-K (Fiscal Year Ended Dec 31, 2024)**
+- **Document ID:** 0457987b-9091-4966-927b-287dbabe7c08 / 1a251e12-21a6-419a-8948-31d5101916ea
+- **Key Data:**
+    - 2024 Operating Income: $68,593M
+    - 2024 Net Income: $59,248M
+    - 2024 Diluted EPS: $5.53
+    - 2024 Operating Cash Flow: $115,877M
+    - 2024 CapEx: $77,658M
+    - 2024 Free Cash Flow: $38,219M
+    - Server useful life change impact: $3.2B reduction in depreciation.
+
+**Source 2: Amazon 10-Q (Q1 2024)**
+- **Document ID:** b051b1ac-67a4-4126-9fd5-d348aa30cfa0
+- **Key Data:**
+    - Trailing 12-month FCF as of March 31, 2024: $50,149M.
+    - Rivian valuation loss (Q1 2024): $2.0B.
+
+**Source 3: Amazon 10-Q (Q2 2024)**
+- **Document ID:** d3cebf8b-ed06-4320-8d8e-7b7fe933b7f4
+- **Key Data:**
+    - Trailing 12-month FCF as of June 30, 2024: $52,973M.

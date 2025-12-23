@@ -1,0 +1,19 @@
+### Sources for Theme 4: Amazon Strategic Drivers 2023-2024
+
+**Source 1: Amazon 10-K (Fiscal Year Ended Dec 31, 2024)**
+- **Document ID:** 26f74233-3414-4e4a-9f4c-ea3cbf8f8584 / 61bba19e-1d30-4e77-9462-879e48bd2098 / 647969f7-1f50-48ac-8526-96b5d64c4a00
+- **Key Data:**
+    - Advertising Revenue 2024: $56,214M
+    - Anthropic Investment Fair Value: $13.8B
+    - CapEx 2024: $77.7B
+    - Fulfillment costs % of sales: 15.8% (2023) to 15.4% (2024).
+
+**Source 2: Amazon 10-Q (Q3 2024)**
+- **Document ID:** fb8474ca-41c6-4f65-b1a9-aad81787de3e
+- **Key Data:**
+    - Nine-month Advertising Revenue 2024: $38,926M.
+
+**Source 3: Amazon 10-Q (Q2 2024)**
+- **Document ID:** d9767a4c-0930-40dc-8eda-41027b631e2e
+- **Key Data:**
+    - Discussion on regionalization and fulfillment efficiencies.

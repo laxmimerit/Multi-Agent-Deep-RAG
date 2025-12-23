@@ -1,0 +1,22 @@
+### Sources for Theme 5: Future Outlook and Stock Performance
+
+**Source 1: SEC Filing - Amazon.com, Inc. Q3 2024 10-Q**
+- **Date:** October 31, 2024
+- **Key Findings:** 
+    - Q4 2024 Sales Guidance: $181.5B - $188.5B.
+    - Q4 2024 Operating Income Guidance: $16.0B - $20.0B.
+    - Change in server useful life from 5 to 6 years, benefiting net income by $1.9B in YTD 2024.
+    - Expectation of "meaningfully increase" in Capex for tech infrastructure.
+
+**Source 2: Yahoo Finance Market Data (via live_finance_researcher)**
+- **Date:** December 2024
+- **Key Findings:**
+    - Analyst Ratings: 16 Strong Buy, 48 Buy, 3 Hold.
+    - Average Price Target: $295.60 (High: $360.00, Low: $245.00).
+    - Forward EPS Estimate (2025): $7.85.
+    - Stock Performance: Ending close price ~$228.43; High of $258.60.
+
+**Key Snippets:**
+- "These forward-looking statements reflect Amazon.com's expectations as of October 31, 2024, and are subject to substantial uncertainty."
+- "We expect cash capital expenditures to meaningfully increase in 2024, primarily driven by investments in technology infrastructure."
+- "The longer useful lives are due to continuous improvements in our hardware, software, and data center designs."

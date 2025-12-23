@@ -1,0 +1,29 @@
+### Sources for Theme 4: Key Growth Drivers and Strategic Investments (2023-2024)
+
+**1. SEC Filings (Historical Data)**
+- **Amazon 10-K (Full Year 2024):** 
+  - Revenue breakdown: Advertising ($56.2B), AWS ($107.6B), Third-party services ($156.1B).
+  - CapEx: $77.7 billion in 2024 vs. $48.1 billion in 2023.
+  - Anthropic investment details: $1.25B (Q3 23), $2.75B (Q1 24), $1.3B (Q4 24).
+- **Amazon 10-Q (Q3 2024):**
+  - Advertising revenue for nine months ended Sept 30, 2024: $38.9B.
+  - Discussion on fulfillment efficiencies and lower transportation costs.
+- **Amazon 10-Q (Q2 2024):**
+  - Segment growth rates: AWS (19%), North America (9%), International (7%).
+  - Mention of change in estimated useful life of servers (impacting depreciation).
+- **Amazon 10-Q (Q1 2024):**
+  - Initial 2024 AI investment commentary and Bedrock scaling.
+
+**2. Key Metrics & Quotes**
+- **Advertising Revenue Trend:** 
+  - 2022: $37,739M
+  - 2023: $46,906M
+  - 2024: $56,214M
+- **Fulfillment Efficiency:** "The increase in fulfillment costs... is primarily due to increased sales... partially offset by fulfillment network efficiencies." (Q3 2024 10-Q).
+- **AI Commitment:** Total commitment to Anthropic reaching over $5B by the end of 2025.
+- **CapEx Driver:** "We expect cash capital expenditures to increase in 2025, primarily driven by investments in technology infrastructure." (10-K 2024).
+
+**3. Strategic Context**
+- **Logistics:** Shift to "regionalization" to reduce shipping distances and costs.
+- **AI Infrastructure:** Focus on custom silicon (Trainium/Inferentia) to reduce dependency on third-party GPU providers and lower costs for AWS customers.
+- **Project Kuiper:** High R&D spend noted in Technology and Infrastructure for satellite broadband.

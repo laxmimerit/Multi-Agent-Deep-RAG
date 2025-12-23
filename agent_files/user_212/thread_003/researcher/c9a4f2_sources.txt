@@ -1,0 +1,24 @@
+### Sources for Theme 5: Amazon Outlook and Market Sentiment (2025)
+
+**Source 1: Yahoo Finance Research (MCO Tool)**
+- **Key Data:**
+    - Stock Performance 2024: +46.33%
+    - Current Price (Dec 2024): $228.43
+    - 2025 Price Targets: Mean ($295.60), High ($360.00)
+    - Rating: Strong Buy
+
+**Source 2: Amazon 10-Q (Q1 2025)**
+- **Document ID:** ad51426570f5d3f73829d63a9dfbd4e5bc6741a61f4a2eb2d1a57fd2da592a62 / b88697b0-8bac-4b46-a461-3e698916f11b
+- **Key Data:**
+    - Q1 2025 Revenue: $155.7B
+    - Q2 2025 Guidance: Revenue $159B-$164B; Op Income $13B-$17.5B.
+    - Mention of increased CapEx expectations for 2025.
+
+**Source 3: Amazon 10-Q (Q2 2025)**
+- **Document ID:** 9c3d6d11-69b6-4860-b94b-fb5eb96ea6a7
+- **Key Data:**
+    - Q3 2025 Guidance: Revenue $174B-$179.5B; Op Income $15.5B-$20.5B.
+
+**Source 4: Amazon 10-K (2024)**
+- **Key Data:**
+    - Risk factors regarding competition (Item 1A).
