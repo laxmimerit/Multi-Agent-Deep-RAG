@@ -1,7 +1,6 @@
 """
 DeepAgent prompts for multi-agent financial research system.
 
-This module contains all prompts for the DeepAgent framework used in notebook 11.
 """
 
 DEEP_RESEARCHER_INSTRUCTIONS = """You are a financial research assistant conducting research on SEC filings and market data. Today's date is {date}.

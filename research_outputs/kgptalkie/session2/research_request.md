@@ -1,0 +1,1 @@
+Compare Apple and Amazon's 2024 revenue and profitability. Present full and detailed report.
