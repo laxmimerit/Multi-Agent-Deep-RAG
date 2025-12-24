@@ -1,17 +1,17 @@
 # Core dependencies
-python-dotenv>=1.1.1
-pydantic>=2.12.3
-typing-extensions>=4.15.0
+python-dotenv
+pydantic
+typing-extensions
 
 # LangChain ecosystem
-langchain>=1.0.0
-langchain-community>=0.4
-langchain-core>=1.0.0
-langchain-huggingface>=1.0.0
-langchain-ollama>=1.0.0
-langchain-openai>=1.0.0
-langgraph>=1.0.0
-langsmith>=0.4.37
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-ollama
+langchain-openai
+langgraph
+langsmith
 langchain-google-genai
 langchain-google-vertexai
 langchain_qdrant
@@ -20,66 +20,66 @@ langchain_qdrant
 deepagents
 
 # Document processing
-pymupdf>=1.26.5
-pypdf2>=3.0.1
-unstructured>=0.18.15
-openpyxl>=3.1.5
-python-pptx>=1.0.2
-python-magic>=0.4.27
-docx2txt>=0.9
-markitdown[all]>=0.0.2
-docling[vlm]>=2.57.0
-docutils>=0.22.2
-xmltodict>=1.0.2
+pymupdf
+pypdf2
+unstructured
+openpyxl
+python-pptx
+python-magic
+docx2txt
+markitdown[all]
+docling[vlm]
+docutils
+xmltodict
 
 # Vector stores & embeddings
-faiss-cpu>=1.12.0
+faiss-cpu
 
 # NLP & ML
-nltk>=3.9.2
-numpy>=2.2.6
-tiktoken>=0.12.0
+nltk
+numpy
+tiktoken
 
 # API clients
-ollama>=0.6.0
-openai>=2.5.0
-tavily-python>=0.7.12
+ollama
+openai
+tavily-python
 google-genai
 
 # Web scraping & searching
-beautifulsoup4>=4.14.2
-lxml>=5.4.0
-selenium>=4.37.0
-duckduckgo-search>=8.1.1
-ddgs>=9.5.2
-wikipedia>=1.4.0
+beautifulsoup4
+lxml
+selenium
+duckduckgo-search
+ddgs
+wikipedia
 
 # Database
-pymysql>=1.1.2
+pymysql
 
 # Web framework
-streamlit>=1.50.0
+streamlit
 
 # Utilities
-huggingface-hub>=0.35.3
-transformers>=4.57.1
-tokenizers>=0.22.1
-datasets>=4.2.0
-evaluate>=0.4.6
-accelerate>=1.10.1
+huggingface-hub
+transformers
+tokenizers
+datasets
+evaluate
+accelerate
 torch
 torchvision
-ipywidgets>=8.1.7
-jupyter>=1.1.1
+ipywidgets
+jupyter
 
 # Media processing
-pytube>=15.0.0
-youtube-transcript-api>=1.2.3
+pytube
+youtube-transcript-api
 
 # Additional tools
-email-validator>=2.3.0
-textblob>=0.19.0
-msoffcrypto-tool>=5.4.2
+email-validator
+textblob
+msoffcrypto-tool
 pymupdf4llm
 langgraph-checkpoint-sqlite
 langgraph-checkpoint-postgres
