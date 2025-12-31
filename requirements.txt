@@ -28,7 +28,6 @@ python-pptx
 python-magic
 docx2txt
 markitdown[all]
-docling[vlm]
 docutils
 xmltodict
 
@@ -79,7 +78,6 @@ youtube-transcript-api
 # Additional tools
 email-validator
 textblob
-msoffcrypto-tool
 pymupdf4llm
 langgraph-checkpoint-sqlite
 langgraph-checkpoint-postgres
@@ -90,3 +88,6 @@ sentence_transformers
 hf_xet
 langchain_mcp_adapters
 nest_asyncio
+docling[vlm]
+fastembed
+fastembed-gpu
