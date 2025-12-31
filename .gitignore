@@ -221,3 +221,5 @@ nul
 *.db-shm
 *.db-wal
 vertex-ai.json
+*.zip
+*.gif
