@@ -91,3 +91,4 @@ nest_asyncio
 docling[vlm]
 fastembed
 fastembed-gpu
+numba>=0.62.1
