@@ -143,7 +143,6 @@ def hybrid_search(query: str, k: int = 5):
     return results
 
 
-
 import subprocess
 import sys
 
