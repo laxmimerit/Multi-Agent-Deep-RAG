@@ -7,88 +7,29 @@ typing-extensions
 langchain
 langchain-community
 langchain-core
-langchain-huggingface
-langchain-ollama
-langchain-openai
 langgraph
 langsmith
 langchain-google-genai
-langchain-google-vertexai
 langchain_qdrant
+langchain_mcp_adapters
 
 # DeepAgents
 deepagents
 
 # Document processing
 pymupdf
-pypdf2
-unstructured
-openpyxl
-python-pptx
-python-magic
-docx2txt
-markitdown[all]
-docutils
-xmltodict
+pymupdf4llm
+docling
 
 # Vector stores & embeddings
-faiss-cpu
-
-# NLP & ML
-nltk
-numpy
-tiktoken
+fastembed
+sentence_transformers
 
 # API clients
 ollama
-openai
-tavily-python
 google-genai
 
-# Web scraping & searching
-beautifulsoup4
-lxml
-selenium
-duckduckgo-search
-ddgs
-wikipedia
-
-# Database
-pymysql
-
-# Web framework
-streamlit
-
 # Utilities
-huggingface-hub
-transformers
-tokenizers
-datasets
-evaluate
-accelerate
-torch
-torchvision
-ipywidgets
 jupyter
-
-# Media processing
-pytube
-youtube-transcript-api
-
-# Additional tools
-email-validator
-textblob
-pymupdf4llm
-langgraph-checkpoint-sqlite
-langgraph-checkpoint-postgres
-psycopg
-psycopg-binary
-rank_bm25
-sentence_transformers
-hf_xet
-langchain_mcp_adapters
 nest_asyncio
-docling
-fastembed
-fastembed-gpu
-numba>=0.62.1
+langgraph-checkpoint-sqlite
