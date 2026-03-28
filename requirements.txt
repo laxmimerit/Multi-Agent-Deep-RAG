@@ -88,7 +88,7 @@ sentence_transformers
 hf_xet
 langchain_mcp_adapters
 nest_asyncio
-docling[vlm]
+docling
 fastembed
 fastembed-gpu
 numba>=0.62.1
